@@ -27,4 +27,24 @@ class Question < ActiveRecord::Base
   )
 
   has_many :responses, through: :answer_choices, source: :responses
+
+  def results
+    results_hash = {}
+
+    choices = answer_choices
+      .select('answer_choices.*, COUNT(responses.*) AS count')
+      .joins('LEFT OUTER JOIN responses
+      ON answer_choices.id = responses.answer_choice_id')
+      .group('answer_choices.id')
+
+    choices.map do |choice|
+      results_hash[choice.text] = choice.count
+    end
+
+    results_hash
+  end
+
+  def title
+    text
+  end
 end
