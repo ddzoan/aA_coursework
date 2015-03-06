@@ -24,4 +24,26 @@ class User < ActiveRecord::Base
     foreign_key: :respondent_id,
     primary_key: :id
   )
+
+  def completed_polls
+    Poll
+      .joins(questions: :answer_choices)
+      .joins("LEFT OUTER JOIN responses
+              ON responses.answer_choice_id = answer_choices.id")
+      .where("responses.respondent_id = ?
+              OR responses.respondent_id IS NULL", id)
+      .group('polls.id')
+      .having("COUNT(DISTINCT questions.id) = COUNT(DISTINCT responses.id)")
+  end
+
+  def uncompleted_polls
+    Poll
+      .joins(questions: :answer_choices)
+      .joins("LEFT OUTER JOIN responses
+              ON responses.answer_choice_id = answer_choices.id")
+      .where("responses.respondent_id = ?
+              OR responses.respondent_id IS NULL", id)
+      .group('polls.id')
+      .having("COUNT(DISTINCT questions.id) != COUNT(DISTINCT responses.id)")
+  end
 end

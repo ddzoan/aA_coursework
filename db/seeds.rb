@@ -19,9 +19,9 @@ a4 = AnswerChoice.create!(text: 'fiji', question_id: q2.id)
 q3 = Question.create!(text: 'favorite island', poll_id: poll1.id)
 a5 = AnswerChoice.create!(text: 'fiji', question_id: q3.id)
 a6 = AnswerChoice.create!(text: 'madagascar', question_id: q3.id)
-
+#
 poll2 = Poll.create!(title: "favorite things", author_id: shibbi.id)
-
+#
 q4 = Question.create!(text: "food?", poll_id: poll2.id)
 a7 = AnswerChoice.create!(text: 'tacos', question_id: q4.id)
 a8 = AnswerChoice.create!(text: 'burritos', question_id: q4.id)
