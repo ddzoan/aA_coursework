@@ -1,4 +1,6 @@
 class SessionsController < ApplicationController
+  before_action :ensure_logged_out, only: [:new, :create]
+
   def new
     @user = User.new
     render :new
@@ -15,7 +17,7 @@ class SessionsController < ApplicationController
       redirect_to user_url(@user)
     else
       @user = User.new
-      flash[:errors] = ["Invalid login"]
+      flash[:danger] = ["Invalid login"]
       render :new
     end
   end
@@ -25,5 +27,13 @@ class SessionsController < ApplicationController
     @user.reset_session_token!
     session[:session_token] = nil
     redirect_to new_session_url
+  end
+
+  private
+
+  def ensure_logged_out
+    if logged_in?
+      redirect_to bands_url
+    end
   end
 end

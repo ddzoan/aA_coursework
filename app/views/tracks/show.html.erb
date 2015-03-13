@@ -1,0 +1,19 @@
+<h1><%= link_to @track.album.band.name, band_url(@track.album.band) %></h1>
+<h2>Album: <%= link_to @track.album.name, album_url(@track.album) %></h2>
+<h3>
+  Track: <%= @track.name %><%= ' (Bonus)' if @track.track_type == 'bonus' %>
+</h3>
+<div class="row">
+  <div class='col-md-4'>
+    <%= link_to 'Edit Track info', edit_track_url(params[:id]), role: 'button', class: 'btn btn-default' %>
+
+    <div class="container">
+      <%= @track.lyrics %>
+    </div>
+  </div>
+</div>
+<div class="row">
+  <div class="col-md-4">
+    <%= button_to "Delete track: #{@track.name}", track_url(@track), method: :delete, class: 'btn btn-danger' %>
+  </div>
+</div>

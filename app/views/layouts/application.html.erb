@@ -18,6 +18,11 @@
               <%= link_to current_user.email, user_url(current_user) %>
             </h3>
           </li>
+          <li>
+            <h3>
+              <%= link_to 'Bands', bands_url, role: 'button', class: 'btn btn-primary' %>
+            </h3>
+          </li>
         <% end %>
       </ul>
       <ul class="nav navbar-nav navbar-right">
@@ -29,7 +34,11 @@
       </ul>
     </div>
   </div>
-<%= yield %>
+  <div class='container-fluid'>
+    <div class='col-md-8'>
+      <%= render 'shared/show_flash' %>
+    <%= yield %>
+  </div>
 
 </body>
 </html>

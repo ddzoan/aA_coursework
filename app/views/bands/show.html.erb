@@ -1,0 +1,15 @@
+<h1><%= @band.name %>'s page!</h1>
+<div class='col-md-4'>
+  <%= link_to 'Edit Band info', edit_band_url(params[:id]), role: 'button', class: 'btn btn-default' %>
+  <h2>Albums</h2>
+  <%= link_to 'Create New Album', new_band_album_url(params[:id]), role: 'button', class: 'btn btn-default' %>
+  <ul>
+    <% @band.albums.each do |album| %>
+      <li><%= link_to album.name, album_url(album) %></li>
+    <%#= render 'children', children: @band.albums %>
+    <% end %>
+  </ul>
+  <%= button_to 'Delete this Band', band_url(@band), method: :delete, class: 'btn btn-danger' %>
+  <br>
+  <%= link_to 'Bands index', bands_url, role: 'button', class: 'btn btn-default' %>
+</div>
