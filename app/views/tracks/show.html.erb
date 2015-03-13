@@ -3,17 +3,30 @@
 <h3>
   Track: <%= @track.name %><%= ' (Bonus)' if @track.track_type == 'bonus' %>
 </h3>
-<div class="row">
-  <div class='col-md-4'>
-    <%= link_to 'Edit Track info', edit_track_url(params[:id]), role: 'button', class: 'btn btn-default' %>
+<div class="col-md-4">
+  <div class="row">
+    <div class='col-md-4'>
+      <%= link_to 'Edit Track info', edit_track_url(params[:id]), role: 'button', class: 'btn btn-default' %>
 
-    <div class="container">
-      <%= @track.lyrics %>
+      <div class="container">
+        <%= @track.lyrics %>
+      </div>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-4">
+      <%= button_to "Delete track: #{@track.name}", track_url(@track), method: :delete, class: 'btn btn-danger' %>
     </div>
   </div>
 </div>
-<div class="row">
-  <div class="col-md-4">
-    <%= button_to "Delete track: #{@track.name}", track_url(@track), method: :delete, class: 'btn btn-danger' %>
+<div class="col-md-4">
+  <h4>Notes</h4>
+  <div class="row">
+    <%= render 'notes/form' %>
+  </div>
+  <div class="row">
+    <ul>
+      <%= render @notes %>
+    </ul>
   </div>
 </div>

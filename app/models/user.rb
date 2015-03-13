@@ -14,6 +14,8 @@ class User < ActiveRecord::Base
   validates :email, :password_digest, :session_token, presence: true
   validates :email, :session_token, uniqueness: true
 
+  has_many :notes
+
   after_initialize :set_session_token
 
   def self.generate_session_token
