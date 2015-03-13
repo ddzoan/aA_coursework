@@ -11,11 +11,17 @@ class PostsController < ApplicationController
     @post = current_user.posts.new(post_params)
     @subs = Sub.all
     if @post.save
-      redirect_to sub_url(@post.subs.first)
+      redirect_to post_url(@post)
     else
       flash.now[:errors] = @post.errors.full_messages
       render :new
     end
+  end
+
+  def show
+    @post = Post.find(params[:id])
+    @comments = @post.comments.where(parent_comment_id: nil)
+    render :show
   end
 
   def edit
@@ -26,7 +32,7 @@ class PostsController < ApplicationController
   def update
     @subs = Sub.all
     if @post.update(post_params)
-      redirect_to sub_url(@post.subs.first)
+      redirect_to post_url(@post)
     else
       flash.now[:errors] = @post.errors.full_messages
       render :edit
@@ -42,7 +48,7 @@ class PostsController < ApplicationController
   def ensure_post_author
     @post = Post.find(params[:id])
     unless @post.author == current_user
-      redirect_to sub_url(@post.subs.first)
+      redirect_to post_url(@post)
     end
   end
 end

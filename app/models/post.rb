@@ -19,6 +19,8 @@ class Post < ActiveRecord::Base
   has_many :subs, through: :post_subs, source: :sub
   belongs_to :author, class_name: 'User', foreign_key: :user_id
 
+  has_many :comments
+
   def has_sub?
     unless self.subs.count > 0
       errors[:subs] << "must have at least one sub"

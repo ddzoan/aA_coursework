@@ -18,6 +18,7 @@ class User < ActiveRecord::Base
 
   has_many :subs
   has_many :posts
+  has_many :comments
 
   def self.generate_session_token
     begin

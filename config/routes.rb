@@ -4,5 +4,9 @@ Rails.application.routes.draw do
 
   resources :subs, except: [:destroy]
 
-  resources :posts, only: [:new, :create, :edit, :update]
+  resources :posts, only: [:new, :create, :edit, :update, :show] do
+    resources :comments, only: [:new]
+  end
+
+  resources :comments, only: [:create, :show]
 end

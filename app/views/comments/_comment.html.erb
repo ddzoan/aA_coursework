@@ -1,0 +1,7 @@
+<li>
+<%= link_to comment.author.username, user_url(comment.author) %> - <%= link_to comment.content, comment_url(comment) %>
+  <ul>
+    <% comments = comment.child_comments %>
+    <%= render comments %>
+  </ul>
+</li>
