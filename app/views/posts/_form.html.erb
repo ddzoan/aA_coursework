@@ -1,0 +1,32 @@
+<form action="<%= url %>" method="post">
+  <%= auth_input %>
+  <% unless new_post %>
+    <input type="hidden" name="_method" value="patch">
+  <% end %>
+
+  <label>
+    title
+    <input type="text" name="post[title]" value="<%= @post.title %>">
+  </label>
+  <br>
+  <label>
+    url
+    <input type="text" name="post[url]" value="<%= @post.url %>">
+  </label>
+  <br>
+  <label>
+    Content
+    <textarea name="post[content]"><%= @post.content %></textarea>
+  </label>
+  <br>
+  <label>
+    Sub
+    <select name="post[sub_id]">
+      <% @subs.each do |sub| %>
+        <option value="<%= sub.id %>"><%= sub.title %></option>
+      <% end %>
+    </select>
+  </label>
+  <br>
+  <input type="submit" value="<%= button_value %>">
+</form>

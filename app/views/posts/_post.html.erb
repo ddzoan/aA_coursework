@@ -1,0 +1,13 @@
+<li>
+  title:
+  <%= post.title %>
+  <br>
+  url: <%= post.url %>
+  <br>
+  author: <%= post.author.username %>
+  <br>
+  content: <%= post.content %>
+  <% if post.author == current_user %>
+    <br><%= link_to 'edit post', edit_post_url(post) %>
+  <% end %>
+</li>

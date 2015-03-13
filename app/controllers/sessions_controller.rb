@@ -10,7 +10,7 @@ class SessionsController < ApplicationController
       login!(@user)
       redirect_to user_url(@user)
     else
-      flash[:errors] = ["bad login"]
+      flash.now[:errors] = ["bad login"]
       render :new
     end
   end
