@@ -1,0 +1,18 @@
+<form action="<%= new_track ? tracks_url : track_url(@band) %>" method='POST'>
+  <% unless new_track %>
+    <input type="hidden" name="_method" value="PATCH">
+  <% end %>
+  <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+  <input type="hidden" name="track[album_id]" value="<%= @album.id %>">
+  <label>Track Name:
+    <input type="text" name="track[name]" value="<%= @track.name %>">
+  </label>
+  <br>
+  <label>Track Type:<br>
+    <label>Regular<input type="radio" name="track[track_type]" value='regular' checked></label>
+    <label>Bonus<input type="radio" name="track[track_type]" value='bonus' <%= "checked" if @track.track_type == 'bonus' %>></label>
+  </label>
+  <br>
+  <textarea name="track[lyrics]"><%= @track.lyrics %></textarea>
+  <input type="submit" value="<%= button_value %>">
+</form>
