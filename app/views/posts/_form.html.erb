@@ -20,10 +20,18 @@
   </label>
   <br>
   <label>
-    Sub
-    <select name="post[sub_id]">
+    Sub:
+    <br>
       <% @subs.each do |sub| %>
-        <option value="<%= sub.id %>"><%= sub.title %></option>
+        <label>
+          <input
+            type="checkbox"
+            name="post[sub_ids][]"
+            value="<%= sub.id %>"
+            <%= "checked" if @post.subs.include?(sub) %>>
+          <%= sub.title %>
+        </label>
+        <br>
       <% end %>
     </select>
   </label>
