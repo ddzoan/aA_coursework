@@ -40,6 +40,18 @@ class PostsController < ApplicationController
     end
   end
 
+  def upvote
+    @post = Post.find(params[:id])
+    @post.votes.new(value: 1).save
+    redirect_to post_url(@post)
+  end
+
+  def downvote
+    @post = Post.find(params[:id])
+    @post.votes.new(value: -1).save
+    redirect_to post_url(@post)
+  end
+
   private
 
   def post_params

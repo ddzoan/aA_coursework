@@ -1,4 +1,6 @@
 <%= link_to comment.author.username, user_url(comment.author) %> - <%= link_to comment.content, comment_url(comment) %>
+<%= button_to "Upvote", comment_upvote_url(comment) %>
+<%= button_to "Downvote", comment_downvote_url(comment) %>
 <ul>
   <% @all_comments[comment.id].each do |c2| %>
     <li><%= render 'comments/comment', comment: c2 %></li>
