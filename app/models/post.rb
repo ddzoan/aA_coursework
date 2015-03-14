@@ -21,6 +21,16 @@ class Post < ActiveRecord::Base
 
   has_many :comments
 
+  def comments_by_parent_id
+    comment_hash = Hash.new{ |h, k| h[k]  = [] }
+    @all_comments = Comment.all.where(post_id: self.id).includes(:author)
+    @all_comments.each do |comment|
+      comment_hash[comment.parent_comment_id] << comment
+    end
+
+    comment_hash
+  end
+
   def has_sub?
     unless self.subs.count > 0
       errors[:subs] << "must have at least one sub"
