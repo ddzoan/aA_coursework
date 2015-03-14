@@ -8,5 +8,11 @@ Content: <%= @post.content %>
 <h4>Comments</h4>
 <%= link_to 'New Comment', new_post_comment_url(@post) %>
 <ul>
-  <%= render @comments %>
+  <% @all_comments.each do |c1| %>
+    <% if c1.parent_comment_id.nil? %>
+      <li>
+        <%= render 'comments/comment', comment: c1 %>
+      </li>
+    <% end %>
+  <% end %>
 </ul>
