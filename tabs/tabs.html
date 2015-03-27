@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Cool Website</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="./tabs.js"></script>
+    <link href="./tabs.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.17.2/build/cssreset/cssreset-min.css">
+  </head>
+  <body>
+    <ul class="tabs" data-content-tabs="#content-tabs">
+      <li><a href="#corgi" class="active">corgi</a></li>
+      <li><a href="#lab">lab</a></li>
+      <li><a href="#dane">great dane</a></li>
+    </ul>
+    <div id="content-tabs">
+      <div id="corgi" class="tab-pane active">
+        <p>Pembroke Welsh Corgis (also called Pembrokes, PWCs or Pems) are the smallest of the American Kennel Club's Herding Group, and are also recognized by the United Kennel Club. Their coats can be red, sable, fawn or tri-colored (red, black and tan), usually with white markings on the legs, chest, neck, muzzle and belly. They also may have a narrow blaze on their heads. Pembroke heads are shaped much like the head of a fox. Their eyes are oval-shaped and dark, and their ears are erect.</p>
+      </div>
+      <div id="lab" class="tab-pane">
+        <p>
+          The Labrador Retriever, also known as simply Labrador or Lab, is one of several kinds of retrievers, a type of gun dog.
+        </p>
+      </div>
+      <div id="dane" class="tab-pane">
+        <p>
+          The Great Dane is a large German breed of domestic dog known for its giant size. The name of the breed in Germany is Deutsche Dogge. They are known for their enormous bodies and great height. The Great Dane is one of the world's tallest dog breeds.
+        </p>
+      </div>
+    </div>
+  <script>
+    $(function() {
+      $('.tabs').tabs();
+    })
+  </script>
+  </body>
+</html>

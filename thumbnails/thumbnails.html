@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>My Cool Website</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+    <script src="./thumbnails.js"></script>
+    <link href="./thumbnails.css" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="http://yui.yahooapis.com/3.17.2/build/cssreset/cssreset-min.css">
+  </head>
+  <body>
+    <div class="thumbnails">
+      <div class="active"></div>
+
+      <div class="gutter">
+        <a href="#" id="nav-left" class="nav">&lt;</a>
+        <div class="gutter-images">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/001.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/002.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/003.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/004.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/005.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/006.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/007.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/008.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/009.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/012.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/025.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/051.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/054.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/079.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/094.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/108.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/109.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/124.png">
+          <img src="http://appacademy.github.io/jQueryPlugins/images/143.png">
+        </div>
+        <a href="#" id="nav-right" class="nav">&gt;</a>
+      </div>
+    </div>
+    <script>
+      $(function() {
+        $('.thumbnails').thumbnails();
+      })
+    </script>
+  </body>
+</html>

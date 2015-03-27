@@ -1,0 +1,22 @@
+.gutter-images img {
+  width: 20%;
+  float: left;
+  display: block;
+}
+
+.thumbnails {
+  width: 400px;
+}
+
+a.nav {
+  position: a
+  width: 5%;
+  display: block;
+  float: left;
+}
+
+.gutter-images {
+  width: 90%;
+  display: block;
+  float: left;
+}
