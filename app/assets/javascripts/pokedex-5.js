@@ -17,7 +17,12 @@ Pokedex.Views.PokemonIndex = Backbone.View.extend({
 
   refreshPokemon: function (options) {
     this.collection.fetch( {
-      success: this.render.bind(this)
+      success: function () {
+        this.render();
+        if(options.success){
+          options.success.call(this);
+        }
+      }.bind(this)
     }
     );
   },
@@ -31,10 +36,9 @@ Pokedex.Views.PokemonIndex = Backbone.View.extend({
   },
 
   selectPokemonFromList: function (event) {
-    var pokemon = this.collection.get($(event.currentTarget).data('id'));
-    var pokemonDetail = new Pokedex.Views.PokemonDetail({ model: pokemon });
-    $("#pokedex .pokemon-detail").append(pokemonDetail.$el);
-    pokemonDetail.refreshPokemon();
+    var pokemonId = $(event.currentTarget).data('id');
+    // var pokemon = this.collection.get($(event.currentTarget).data('id'));
+    Backbone.history.navigate('/pokemon/' + pokemonId, { trigger: true });
   }
 });
 
@@ -45,7 +49,12 @@ Pokedex.Views.PokemonDetail = Backbone.View.extend({
 
   refreshPokemon: function (options) {
     this.model.fetch( {
-      success: this.render.bind(this)
+      success: function () {
+        this.render();
+        if(options.success){
+          options.success.call(this);
+        }
+      }.bind(this)
     });
   },
 
@@ -61,11 +70,12 @@ Pokedex.Views.PokemonDetail = Backbone.View.extend({
   },
 
   selectToyFromList: function (event) {
-    var toy = this.model.toys().get($(event.currentTarget).data('toy-id'));
-    var toyDetail = new Pokedex.Views.ToyDetail({ model: toy});
-    debugger
-    $("#pokedex .toy-detail").append(toyDetail.$el);
-    toyDetail.render();
+    var target = $(event.currentTarget);
+    var toyId = target.data('toy-id');
+    var pokemonId = target.data('pokemon-id');
+
+
+    Backbone.history.navigate('pokemon/' + pokemonId + '/toys/' + toyId, { trigger: true })
   }
 });
 
@@ -77,9 +87,9 @@ Pokedex.Views.ToyDetail = Backbone.View.extend({
   }
 });
 
-
-$(function () {
-  var pokemonIndex = new Pokedex.Views.PokemonIndex();
-  pokemonIndex.refreshPokemon();
-  $("#pokedex .pokemon-list").html(pokemonIndex.$el);
-});
+//
+// $(function () {
+//   var pokemonIndex = new Pokedex.Views.PokemonIndex();
+//   pokemonIndex.refreshPokemon();
+//   $("#pokedex .pokemon-list").html(pokemonIndex.$el);
+// });
