@@ -37,7 +37,6 @@ Pokedex.Views.PokemonIndex = Backbone.View.extend({
 
   selectPokemonFromList: function (event) {
     var pokemonId = $(event.currentTarget).data('id');
-    // var pokemon = this.collection.get($(event.currentTarget).data('id'));
     Backbone.history.navigate('/pokemon/' + pokemonId, { trigger: true });
   }
 });
@@ -74,16 +73,30 @@ Pokedex.Views.PokemonDetail = Backbone.View.extend({
     var toyId = target.data('toy-id');
     var pokemonId = target.data('pokemon-id');
 
-
     Backbone.history.navigate('pokemon/' + pokemonId + '/toys/' + toyId, { trigger: true })
   }
 });
 
 Pokedex.Views.ToyDetail = Backbone.View.extend({
+  events: {
+    'change select': 'changeOwner'
+  },
+
   render: function () {
-    var content = JST['toyDetail']({ toy: this.model, pokes: _([]) });
+    var content = JST['toyDetail']({ toy: this.model, pokes: this.collection });
     this.$el.append(content);
     return this;
+  },
+
+  changeOwner: function (event) {
+    var toyId = this.model.id;
+    var newOwnerId = $(event.currentTarget).val();
+    this.model.set('pokemon_id', newOwnerId);
+    this.model.save({}, {
+      success: function() {
+        Backbone.history.navigate('pokemon/' + newOwnerId + '/toys/' + toyId, { trigger: true });
+      }
+    });
   }
 });
 
