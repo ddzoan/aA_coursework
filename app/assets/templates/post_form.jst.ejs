@@ -1,0 +1,24 @@
+<div class="form-group">
+    <% if (errors) { %>
+    <%= errors %>
+  <% } %>
+  <h2>Create Post</h2>
+  <label for="post-form-title">Title</label>
+  <input
+    id="post-form-title"
+    type="text"
+    name="post[title]"
+    value="<%= post.get('title') %>"
+    class="form-control"
+    placeholder="Title"
+  >
+  <br>
+  <label for="post-form-body">Body</label>
+  <textarea
+    id="post-form-body"
+    name="post[body]"
+    class="form-control"
+    placeholder="Content"><%= post.get('body') %></textarea>
+  <br>
+  <input type="submit" value="Submit!">
+</div>
