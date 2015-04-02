@@ -4842,3 +4842,2562 @@ Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 13:45:41 -0700
 Processing by Api::FeedsController#index as JSON
   [1m[35mFeed Load (0.5ms)[0m  SELECT "feeds".* FROM "feeds"
 Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 13:50:54 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.6ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 5.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 13:50:55 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 3ms (Views: 2.3ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 58ms (Views: 58.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:05:56 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.7ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:06:01 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 55ms (Views: 55.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:06:26 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:08:38 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 81ms (Views: 80.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.7ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:08:39 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 75ms (Views: 74.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.7ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 5ms (Views: 4.0ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:09:02 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:10:19 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 62ms (Views: 62.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:10:19 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.7ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 2.9ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:20 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.0ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 12ms (Views: 11.0ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:35 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (1.2ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 13ms (Views: 11.9ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:36 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 9ms (Views: 8.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (3.1ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 7ms (Views: 3.9ms | ActiveRecord: 3.1ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:37 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (1.9ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 7ms (Views: 4.4ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (2.1ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 6ms (Views: 3.7ms | ActiveRecord: 2.1ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:10:38 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 75ms (Views: 74.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.7ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 3.1ms | ActiveRecord: 0.7ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:11:01 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 94ms (Views: 93.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.5ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 3ms (Views: 2.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:06 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 9ms (Views: 8.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.9ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 5ms (Views: 3.5ms | ActiveRecord: 0.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:07 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.0ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 5ms (Views: 3.9ms | ActiveRecord: 1.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:08 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 10ms (Views: 9.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.8ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:09 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 68ms (Views: 67.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.9ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 6ms (Views: 3.5ms | ActiveRecord: 1.9ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:22 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 7.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (2.4ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 12ms (Views: 9.5ms | ActiveRecord: 2.4ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:23 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:25 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.7ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 7ms (Views: 5.3ms | ActiveRecord: 1.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:35 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 9ms (Views: 9.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (3.3ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 7ms (Views: 3.0ms | ActiveRecord: 3.3ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:12:50 -0700
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 87ms (Views: 86.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.8ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 4ms (Views: 2.6ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:20:20 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 3ms (Views: 2.4ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 53ms (Views: 52.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:23:32 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.8ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 47ms (Views: 46.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:24:18 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:25:18 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.6ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:25:25 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (1.2ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 5ms (Views: 3.7ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 7ms (Views: 6.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:25:43 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.1ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 4ms (Views: 3.0ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 6ms (Views: 6.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:27:21 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.6ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 3.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:38:45 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 79ms (Views: 79.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:38:46 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.6ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 4ms (Views: 3.3ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:39:44 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 51ms (Views: 50.9ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:39:45 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (5.0ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 9ms (Views: 3.5ms | ActiveRecord: 5.0ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 7.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:39:46 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.8ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 5ms (Views: 2.9ms | ActiveRecord: 0.8ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:39:58 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 44ms (Views: 43.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:39:59 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.6ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 14ms (Views: 14.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:41:24 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.3ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 6ms (Views: 4.1ms | ActiveRecord: 1.3ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:41:25 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 10ms (Views: 9.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:41:26 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 4ms (Views: 2.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.2ms)
+Completed 200 OK in 10ms (Views: 10.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:41:31 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.6ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 4ms (Views: 3.4ms | ActiveRecord: 0.6ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 7.3ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:42:16 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:43:48 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 57ms (Views: 57.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:43:49 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.5ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 3ms (Views: 1.9ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:48:47 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 258ms (Views: 257.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:48:48 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.4ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 3ms (Views: 2.1ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:49:39 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 73ms (Views: 72.6ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:49:40 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.4ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 5ms (Views: 3.6ms | ActiveRecord: 1.4ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:50:38 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.4ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.4ms)
+
+
+Started GET "/api/feeds/2" for 127.0.0.1 at 2015-04-02 14:51:10 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"2"}
+  [1m[35mFeed Load (1.5ms)[0m  SELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1  [["id", "2"]]
+  [1m[36mSQL (1.3ms)[0m  [1mUPDATE "feeds" SET "updated_at" = '2015-04-02 21:51:10.317289' WHERE "feeds"."id" = 2[0m
+  [1m[35m (1.1ms)[0m  SELECT "entries"."guid" FROM "entries"
+  [1m[36m (0.2ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (34.8ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00], ["feed_id", 2], ["guid", "http://www.wired.com/?p=1761509"], ["json", "{\"title\":\"Week’s Best Videos: Azealia Banks Has Hair Made of Snakes\",\"link\":\"http://feeds.wired.com/c/35185/f/661370/s/45106ab5/sc/23/l/0L0Swired0N0C20A150C0A40Caudio0Evisuals0E120C/story01.htm\",\"description\":\"\\u0026lt;div class=\\\"rss_thumbnail\\\"\\u0026gt;\\u0026lt;img src=\\\"http://www.wired.com/wp-content/uploads/2015/04/iceprincess-660x283.jpg\\\" alt=\\\"Week\\u0026amp;#8217;s Best Videos: Azealia Banks Has Hair Made of Snakes\\\" /\\u0026gt;\\u0026lt;/div\\u0026gt;\\u0026lt;p\\u0026gt;In this week's top music videos roundup, there's a turtle crossing a Micro Machine minefield, a nasty breakup between two men in drag, and a surprise threesome. \\u0026lt;/p\\u0026gt; \\u0026lt;p\\u0026gt;The post \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com/2015/04/audio-visuals-12/\\\"\\u0026gt;Week\\u0026amp;#8217;s Best Videos: Azealia Banks Has Hair Made of Snakes\\u0026lt;/a\\u0026gt; appeared first on \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com\\\"\\u0026gt;WIRED\\u0026lt;/a\\u0026gt;.\\u0026lt;/p\\u0026gt;\\u0026lt;img width='1' height='1' src='http://feeds.wired.com/c/35185/f/661370/s/45106ab5/sc/23/mf.gif' border='0'/\\u0026gt;\\u0026lt;br clear='all'/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/rc/1/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/rc/1/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/rc/2/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/rc/2/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/rc/3/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/rc/3/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/a2.htm\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/a2.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;img width=\\\"1\\\" height=\\\"1\\\" src=\\\"http://pi.feedsportal.com/r/224851179703/u/0/f/661370/c/35185/s/45106ab5/sc/23/a2t.img\\\" border=\\\"0\\\"/\\u0026gt;\",\"comments\":\"http://www.wired.com/2015/04/audio-visuals-12/#comments\",\"pubDate\":\"2015-04-02T14:15:02-07:00\",\"category\":\"Audio Visuals\",\"guid\":\"http://www.wired.com/?p=1761509\",\"dc_creator\":\"Jordan Crucchiola\"}"], ["link", "http://feeds.wired.com/c/35185/f/661370/s/45106ab5/sc/23/l/0L0Swired0N0C20A150C0A40Caudio0Evisuals0E120C/story01.htm"], ["published_at", Thu, 02 Apr 2015 21:15:02 UTC +00:00], ["title", "Week’s Best Videos: Azealia Banks Has Hair Made of Snakes"], ["updated_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00], ["feed_id", 2], ["guid", "http://www.wired.com/?p=1761889"], ["json", "{\"title\":\"Samsung’s New 4K TVs Are Here, and They’re Gorgeous\",\"link\":\"http://feeds.wired.com/c/35185/f/661370/s/450ff8dd/sc/28/l/0L0Swired0N0C20A150C0A40Csamsung0E4k0Etvs0C/story01.htm\",\"description\":\"\\u0026lt;div class=\\\"rss_thumbnail\\\"\\u0026gt;\\u0026lt;img src=\\\"http://www.wired.com/wp-content/uploads/2015/04/SUHD_JS9500_002_3-660x496.jpg\\\" alt=\\\"Samsung\\u0026amp;#8217;s New 4K TVs Are Here, and They\\u0026amp;#8217;re Gorgeous\\\" /\\u0026gt;\\u0026lt;/div\\u0026gt;\\u0026lt;p\\u0026gt;The stunning SUHD TVs that Samsung displayed at CES are ready to hit stores, and they're priced at a premium.\\u0026lt;/p\\u0026gt; \\u0026lt;p\\u0026gt;The post \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com/2015/04/samsung-4k-tvs/\\\"\\u0026gt;Samsung\\u0026amp;#8217;s New 4K TVs Are Here, and They\\u0026amp;#8217;re Gorgeous\\u0026lt;/a\\u0026gt; appeared first on \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com\\\"\\u0026gt;WIRED\\u0026lt;/a\\u0026gt;.\\u0026lt;/p\\u0026gt;\\u0026lt;img width='1' height='1' src='http://feeds.wired.com/c/35185/f/661370/s/450ff8dd/sc/28/mf.gif' border='0'/\\u0026gt;\\u0026lt;br clear='all'/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/rc/1/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/rc/1/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/rc/2/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/rc/2/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/rc/3/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/rc/3/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/a2.htm\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/a2.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;img width=\\\"1\\\" height=\\\"1\\\" src=\\\"http://pi.feedsportal.com/r/224851141835/u/0/f/661370/c/35185/s/450ff8dd/sc/28/a2t.img\\\" border=\\\"0\\\"/\\u0026gt;\",\"comments\":\"http://www.wired.com/2015/04/samsung-4k-tvs/#comments\",\"pubDate\":\"2015-04-02T12:00:47-07:00\",\"category\":\"Smart TV\",\"guid\":\"http://www.wired.com/?p=1761889\",\"dc_creator\":\"Tim Moynihan\"}"], ["link", "http://feeds.wired.com/c/35185/f/661370/s/450ff8dd/sc/28/l/0L0Swired0N0C20A150C0A40Csamsung0E4k0Etvs0C/story01.htm"], ["published_at", Thu, 02 Apr 2015 19:00:47 UTC +00:00], ["title", "Samsung’s New 4K TVs Are Here, and They’re Gorgeous"], ["updated_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.7ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00], ["feed_id", 2], ["guid", "http://www.wired.com/?p=1761886"], ["json", "{\"title\":\"Comcast Says It’ll Bring Ultra-Fast Internet to US by 2016\",\"link\":\"http://feeds.wired.com/c/35185/f/661370/s/450fa6f4/sc/15/l/0L0Swired0N0C20A150C0A40Ccomcast0Esays0Eitll0Ebring0Eultra0Efast0Einternet0Eus0E20A160C/story01.htm\",\"description\":\"\\u0026lt;div class=\\\"rss_thumbnail\\\"\\u0026gt;\\u0026lt;img src=\\\"http://www.wired.com/wp-content/uploads/2015/04/102853293-660x439.jpg\\\" alt=\\\"Comcast Says It\\u0026amp;#8217;ll Bring Ultra-Fast Internet to US by 2016\\\" /\\u0026gt;\\u0026lt;/div\\u0026gt;\\u0026lt;p\\u0026gt;Comcast says it will soon compete head-on with Google Fiber.\\u0026lt;/p\\u0026gt; \\u0026lt;p\\u0026gt;The post \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com/2015/04/comcast-says-itll-bring-ultra-fast-internet-us-2016/\\\"\\u0026gt;Comcast Says It\\u0026amp;#8217;ll Bring Ultra-Fast Internet to US by 2016\\u0026lt;/a\\u0026gt; appeared first on \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com\\\"\\u0026gt;WIRED\\u0026lt;/a\\u0026gt;.\\u0026lt;/p\\u0026gt;\\u0026lt;img width='1' height='1' src='http://feeds.wired.com/c/35185/f/661370/s/450fa6f4/sc/15/mf.gif' border='0'/\\u0026gt;\\u0026lt;br clear='all'/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/rc/1/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/rc/1/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/rc/2/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/rc/2/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/rc/3/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/rc/3/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/a2.htm\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/a2.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;img width=\\\"1\\\" height=\\\"1\\\" src=\\\"http://pi.feedsportal.com/r/224851176792/u/0/f/661370/c/35185/s/450fa6f4/sc/15/a2t.img\\\" border=\\\"0\\\"/\\u0026gt;\",\"comments\":\"http://www.wired.com/2015/04/comcast-says-itll-bring-ultra-fast-internet-us-2016/#comments\",\"pubDate\":\"2015-04-02T11:50:22-07:00\",\"category\":\"gigabit internet\",\"guid\":\"http://www.wired.com/?p=1761886\",\"dc_creator\":\"Klint Finley\"}"], ["link", "http://feeds.wired.com/c/35185/f/661370/s/450fa6f4/sc/15/l/0L0Swired0N0C20A150C0A40Ccomcast0Esays0Eitll0Ebring0Eultra0Efast0Einternet0Eus0E20A160C/story01.htm"], ["published_at", Thu, 02 Apr 2015 18:50:22 UTC +00:00], ["title", "Comcast Says It’ll Bring Ultra-Fast Internet to US by 2016"], ["updated_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.7ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00], ["feed_id", 2], ["guid", "http://www.wired.com/?p=1761848"], ["json", "{\"title\":\"Porsche’s New Boxster Has Crazy Muscle and Zero Frills\",\"link\":\"http://feeds.wired.com/c/35185/f/661370/s/450f7020/sc/23/l/0L0Swired0N0C20A150C0A40Cporsches0Enew0Eboxster0Emade0Ejust0Edriving0Eenthusiasts0C/story01.htm\",\"description\":\"\\u0026lt;div class=\\\"rss_thumbnail\\\"\\u0026gt;\\u0026lt;img src=\\\"http://www.wired.com/wp-content/uploads/2015/04/325509_P15_0202_a4_rgb-660x371.jpg\\\" alt=\\\"Porsche\\u0026amp;#8217;s New Boxster Has Crazy Muscle and Zero Frills\\\" /\\u0026gt;\\u0026lt;/div\\u0026gt;\\u0026lt;p\\u0026gt;The new Boxster is so focused on being light and agile, there's no A/C or radio. \\u0026lt;/p\\u0026gt; \\u0026lt;p\\u0026gt;The post \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com/2015/04/porsches-new-boxster-made-just-driving-enthusiasts/\\\"\\u0026gt;Porsche\\u0026amp;#8217;s New Boxster Has Crazy Muscle and Zero Frills\\u0026lt;/a\\u0026gt; appeared first on \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com\\\"\\u0026gt;WIRED\\u0026lt;/a\\u0026gt;.\\u0026lt;/p\\u0026gt;\\u0026lt;img width='1' height='1' src='http://feeds.wired.com/c/35185/f/661370/s/450f7020/sc/23/mf.gif' border='0'/\\u0026gt;\\u0026lt;br clear='all'/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/rc/1/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/rc/1/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/rc/2/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/rc/2/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/rc/3/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/rc/3/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/a2.htm\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/a2.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;img width=\\\"1\\\" height=\\\"1\\\" src=\\\"http://pi.feedsportal.com/r/225506425842/u/0/f/661370/c/35185/s/450f7020/sc/23/a2t.img\\\" border=\\\"0\\\"/\\u0026gt;\",\"comments\":\"http://www.wired.com/2015/04/porsches-new-boxster-made-just-driving-enthusiasts/#comments\",\"pubDate\":\"2015-04-02T11:32:42-07:00\",\"category\":\"gallery\",\"guid\":\"http://www.wired.com/?p=1761848\",\"dc_creator\":\"Alex Davies\"}"], ["link", "http://feeds.wired.com/c/35185/f/661370/s/450f7020/sc/23/l/0L0Swired0N0C20A150C0A40Cporsches0Enew0Eboxster0Emade0Ejust0Edriving0Eenthusiasts0C/story01.htm"], ["published_at", Thu, 02 Apr 2015 18:32:42 UTC +00:00], ["title", "Porsche’s New Boxster Has Crazy Muscle and Zero Frills"], ["updated_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.6ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00], ["feed_id", 2], ["guid", "http://www.wired.com/?p=1761980"], ["json", "{\"title\":\"Retro City Rampage Gets Limited-Edition Physical Release on PlayStation Vita\",\"link\":\"http://feeds.wired.com/c/35185/f/661370/s/450f0100/sc/27/l/0L0Swired0N0C20A150C0A40Cretro0Ecity0Erampage0Evita0Ephysica0C/story01.htm\",\"description\":\"\\u0026lt;div class=\\\"rss_thumbnail\\\"\\u0026gt;\\u0026lt;img src=\\\"http://www.wired.com/wp-content/uploads/2015/04/RCR-vita_box_display-full-copy-660x415.jpg\\\" alt=\\\"Retro City Rampage Gets Limited-Edition Physical Release on PlayStation Vita\\\" /\\u0026gt;\\u0026lt;/div\\u0026gt;\\u0026lt;p\\u0026gt;Hate downloading games? Or do you just want a physical memento of \\u0026lt;em\\u0026gt;Retro City Rampage\\u0026lt;/em\\u0026gt;, the 8-bit styled homage to games like \\u0026lt;em\\u0026gt;Grand Theft Auto\\u0026lt;/em\\u0026gt;?\\u0026lt;/p\\u0026gt; \\u0026lt;p\\u0026gt;The post \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com/2015/04/retro-city-rampage-vita-physica/\\\"\\u0026gt;\\u0026lt;em\\u0026gt;Retro City Rampage\\u0026lt;/em\\u0026gt; Gets Limited-Edition Physical Release on PlayStation Vita\\u0026lt;/a\\u0026gt; appeared first on \\u0026lt;a rel=\\\"nofollow\\\" href=\\\"http://www.wired.com\\\"\\u0026gt;WIRED\\u0026lt;/a\\u0026gt;.\\u0026lt;/p\\u0026gt;\\u0026lt;img width='1' height='1' src='http://feeds.wired.com/c/35185/f/661370/s/450f0100/sc/27/mf.gif' border='0'/\\u0026gt;\\u0026lt;br clear='all'/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/rc/1/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/rc/1/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/rc/2/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/rc/2/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/rc/3/rc.htm\\\" rel=\\\"nofollow\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/rc/3/rc.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;br/\\u0026gt;\\u0026lt;a href=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/a2.htm\\\"\\u0026gt;\\u0026lt;img src=\\\"http://da.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/a2.img\\\" border=\\\"0\\\"/\\u0026gt;\\u0026lt;/a\\u0026gt;\\u0026lt;img width=\\\"1\\\" height=\\\"1\\\" src=\\\"http://pi.feedsportal.com/r/224851171339/u/0/f/661370/c/35185/s/450f0100/sc/27/a2t.img\\\" border=\\\"0\\\"/\\u0026gt;\",\"comments\":\"http://www.wired.com/2015/04/retro-city-rampage-vita-physica/#comments\",\"pubDate\":\"2015-04-02T11:06:38-07:00\",\"category\":\"Game|Life\",\"guid\":\"http://www.wired.com/?p=1761980\",\"dc_creator\":\"Chris Kohler\"}"], ["link", "http://feeds.wired.com/c/35185/f/661370/s/450f0100/sc/27/l/0L0Swired0N0C20A150C0A40Cretro0Ecity0Erampage0Evita0Ephysica0C/story01.htm"], ["published_at", Thu, 02 Apr 2015 18:06:38 UTC +00:00], ["title", "Retro City Rampage Gets Limited-Edition Physical Release on PlayStation Vita"], ["updated_at", Thu, 02 Apr 2015 21:51:10 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35mEntry Load (2.1ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 2]]
+Completed 200 OK in 650ms (Views: 597.0ms | ActiveRecord: 50.4ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:51:28 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 7.4ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:51:29 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (1.1ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 6ms (Views: 3.9ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:51:58 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (0.5ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 3ms (Views: 2.2ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:52:25 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (1.1ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 5ms (Views: 3.1ms | ActiveRecord: 1.1ms)
+
+
+Started GET "/api/feeds/3" for 127.0.0.1 at 2015-04-02 14:52:31 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"3"}
+  [1m[35mFeed Load (0.5ms)[0m  SELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1  [["id", "3"]]
+  [1m[36mSQL (0.9ms)[0m  [1mUPDATE "feeds" SET "updated_at" = '2015-04-02 21:52:31.354984' WHERE "feeds"."id" = 3[0m
+  [1m[35m (0.6ms)[0m  SELECT "entries"."guid" FROM "entries"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/goatsandsoda/2015/04/02/396897770/drug-resistant-food-poisoning-lands-in-the-u-s?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"Drug-Resistant Food Poisoning Lands In The U.S.\",\"link\":\"http://www.npr.org/blogs/goatsandsoda/2015/04/02/396897770/drug-resistant-food-poisoning-lands-in-the-u-s?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"Travelers are bringing a nasty bacterial disease to the U.S. and spreading it to others. The bacteria cause bad diarrhea and are tough to treat because they're resistant to the top antibiotic.\",\"content_encoded\":\"\\u003Cp\\u003ETravelers are bringing a nasty bacterial disease to the U.S. and spreading it to others. The bacteria cause bad diarrhea and are tough to treat because they're resistant to the top antibiotic.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=396897770\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T13:52:00-07:00\",\"guid\":\"http://www.npr.org/blogs/goatsandsoda/2015/04/02/396897770/drug-resistant-food-poisoning-lands-in-the-u-s?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Michaeleen Doucleff\"}"], ["link", "http://www.npr.org/blogs/goatsandsoda/2015/04/02/396897770/drug-resistant-food-poisoning-lands-in-the-u-s?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 20:52:00 UTC +00:00], ["title", "Drug-Resistant Food Poisoning Lands In The U.S."], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397101010/alabama-man-to-be-released-after-30-year-on-death-row?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"Alabama Man To Be Released After 30 Year On Death Row\",\"link\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397101010/alabama-man-to-be-released-after-30-year-on-death-row?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"Anthony Ray Hinton was convicted in the 1985 murders of two fast-food employees based almost exclusively on ballistics evidence that has since been deemed unreliable.\",\"content_encoded\":\"\\u003Cp\\u003EAnthony Ray Hinton was convicted in the 1985 murders of two fast-food employees based almost exclusively on ballistics evidence that has since been deemed unreliable.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397101010\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T13:42:14-07:00\",\"guid\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397101010/alabama-man-to-be-released-after-30-year-on-death-row?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Scott Neuman\"}"], ["link", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397101010/alabama-man-to-be-released-after-30-year-on-death-row?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 20:42:14 UTC +00:00], ["title", "Alabama Man To Be Released After 30 Year On Death Row"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[35m (0.5ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/parallels/2015/04/02/397081251/the-iranian-nuclear-deal-it-isn-t-just-about-the-nukes?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"The Iranian Nuclear Talks: It Isn't Just About The Nukes\",\"link\":\"http://www.npr.org/blogs/parallels/2015/04/02/397081251/the-iranian-nuclear-deal-it-isn-t-just-about-the-nukes?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"President Obama has sought a less hostile relationship with Iran since entering. The nuclear framework agreement points to the possibility of broader cooperation that could reorder the Middle East.\",\"content_encoded\":\"\\u003Cp\\u003EPresident Obama has sought a less hostile relationship with Iran since entering. The nuclear framework agreement points to the possibility of broader cooperation that could reorder the Middle East.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397081251\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T13:33:00-07:00\",\"guid\":\"http://www.npr.org/blogs/parallels/2015/04/02/397081251/the-iranian-nuclear-deal-it-isn-t-just-about-the-nukes?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Greg Myre\"}"], ["link", "http://www.npr.org/blogs/parallels/2015/04/02/397081251/the-iranian-nuclear-deal-it-isn-t-just-about-the-nukes?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 20:33:00 UTC +00:00], ["title", "The Iranian Nuclear Talks: It Isn't Just About The Nukes"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397099134/iran-talks-in-tehran-blaring-horns-chants-cheers?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"Iran Talks: In Tehran, Blaring Horns, Chants, Cheers\",\"link\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397099134/iran-talks-in-tehran-blaring-horns-chants-cheers?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"The public reaction so far in the Iranian capital to the preliminary agreement Iran and six world powers have reached on the Islamic republic's nuclear program has been positive.\",\"content_encoded\":\"\\u003Cp\\u003EThe public reaction so far in the Iranian capital to the preliminary agreement Iran and six world powers have reached on the Islamic republic's nuclear program has been positive.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397099134\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T13:29:11-07:00\",\"guid\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397099134/iran-talks-in-tehran-blaring-horns-chants-cheers?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Krishnadev Calamur\"}"], ["link", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397099134/iran-talks-in-tehran-blaring-horns-chants-cheers?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 20:29:11 UTC +00:00], ["title", "Iran Talks: In Tehran, Blaring Horns, Chants, Cheers"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/itsallpolitics/2015/04/02/397081680/how-congress-is-reacting-to-the-iran-framework?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"How Congress Is Reacting To The Iran Framework\",\"link\":\"http://www.npr.org/blogs/itsallpolitics/2015/04/02/397081680/how-congress-is-reacting-to-the-iran-framework?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"President Obama says he welcomes a \\\"robust debate\\\" on the Iran framework from Congress and the American people. He's already getting one.\",\"content_encoded\":\"\\u003Cp\\u003EPresident Obama says he welcomes a \\\"robust debate\\\" on the Iran framework from Congress and the American people. He's already getting one.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397081680\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T13:16:29-07:00\",\"guid\":\"http://www.npr.org/blogs/itsallpolitics/2015/04/02/397081680/how-congress-is-reacting-to-the-iran-framework?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Amita Kelly\"}"], ["link", "http://www.npr.org/blogs/itsallpolitics/2015/04/02/397081680/how-congress-is-reacting-to-the-iran-framework?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 20:16:29 UTC +00:00], ["title", "How Congress Is Reacting To The Iran Framework"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/thesalt/2015/04/02/397060056/sodium-sleuths-do-southerners-eat-more-salt-than-the-rest-of-us?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"Sodium Sleuths: Do Southerners Eat More Salt Than The Rest Of Us?\",\"link\":\"http://www.npr.org/blogs/thesalt/2015/04/02/397060056/sodium-sleuths-do-southerners-eat-more-salt-than-the-rest-of-us?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"Hypertension, which is tied to sodium intake, is more prevalent in the South. Researchers had a hunch that Southerners eat more salty, packaged foods, so they went gumshoeing.\",\"content_encoded\":\"\\u003Cp\\u003EHypertension, which is tied to sodium intake, is more prevalent in the South. Researchers had a hunch that Southerners eat more salty, packaged foods, so they went gumshoeing.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397060056\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T12:54:00-07:00\",\"guid\":\"http://www.npr.org/blogs/thesalt/2015/04/02/397060056/sodium-sleuths-do-southerners-eat-more-salt-than-the-rest-of-us?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Allison Aubrey\"}"], ["link", "http://www.npr.org/blogs/thesalt/2015/04/02/397060056/sodium-sleuths-do-southerners-eat-more-salt-than-the-rest-of-us?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 19:54:00 UTC +00:00], ["title", "Sodium Sleuths: Do Southerners Eat More Salt Than The Rest Of Us?"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397088868/china-protests-emergency-landing-of-u-s-warplanes-in-taiwan?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"China Protests Emergency Landing Of U.S. Warplanes In Taiwan\",\"link\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397088868/china-protests-emergency-landing-of-u-s-warplanes-in-taiwan?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"Two Navy F-18s landed at an airbase on the island, which Beijing considers part of its sovereign territory.\",\"content_encoded\":\"\\u003Cp\\u003ETwo Navy F-18s landed at an airbase on the island, which Beijing considers part of its sovereign territory.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397088868\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T12:12:44-07:00\",\"guid\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397088868/china-protests-emergency-landing-of-u-s-warplanes-in-taiwan?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Scott Neuman\"}"], ["link", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397088868/china-protests-emergency-landing-of-u-s-warplanes-in-taiwan?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 19:12:44 UTC +00:00], ["title", "China Protests Emergency Landing Of U.S. Warplanes In Taiwan"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/ed/2015/04/02/396812961/why-babies-love-and-learn-from-magic-tricks?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"Why Babies Love (And Learn From) Magic Tricks\",\"link\":\"http://www.npr.org/blogs/ed/2015/04/02/396812961/why-babies-love-and-learn-from-magic-tricks?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"A new study in the journal \\u0026lt;em\\u0026gt;Science\\u0026lt;/em\\u0026gt; explores the power of surprise to motivate infant learning.\",\"content_encoded\":\"\\u003Cp\\u003EA new study in the journal \\u003Cem\\u003EScience\\u003C/em\\u003E explores the power of surprise to motivate infant learning.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=396812961\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T11:43:00-07:00\",\"guid\":\"http://www.npr.org/blogs/ed/2015/04/02/396812961/why-babies-love-and-learn-from-magic-tricks?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Cory Turner\"}"], ["link", "http://www.npr.org/blogs/ed/2015/04/02/396812961/why-babies-love-and-learn-from-magic-tricks?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 18:43:00 UTC +00:00], ["title", "Why Babies Love (And Learn From) Magic Tricks"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397078023/like-mars-dusty-sandstorm-blocks-visibility-and-travel-in-dubai?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"Like Mars: Dusty Sandstorm Blocks Visibility And Travel In Dubai\",\"link\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397078023/like-mars-dusty-sandstorm-blocks-visibility-and-travel-in-dubai?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"More than 100 cars were reportedly involved in accidents. Conditions forced airlines to delay or cancel flights after the sandstorm arrived from Saudi Arabia.\",\"content_encoded\":\"\\u003Cp\\u003EMore than 100 cars were reportedly involved in accidents. Conditions forced airlines to delay or cancel flights after the sandstorm arrived from Saudi Arabia.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397078023\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T11:19:00-07:00\",\"guid\":\"http://www.npr.org/blogs/thetwo-way/2015/04/02/397078023/like-mars-dusty-sandstorm-blocks-visibility-and-travel-in-dubai?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Bill Chappell\"}"], ["link", "http://www.npr.org/blogs/thetwo-way/2015/04/02/397078023/like-mars-dusty-sandstorm-blocks-visibility-and-travel-in-dubai?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 18:19:00 UTC +00:00], ["title", "Like Mars: Dusty Sandstorm Blocks Visibility And Travel In Dubai"], ["updated_at", Thu, 02 Apr 2015 21:52:31 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35mEntry Load (1.5ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 3]]
+Completed 200 OK in 178ms (Views: 164.2ms | ActiveRecord: 12.5ms)
+
+
+Started GET "/api/feeds/3" for 127.0.0.1 at 2015-04-02 14:53:30 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"3"}
+  [1m[36mFeed Load (2.8ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "3"]]
+  [1m[35mSQL (29.1ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:53:30.542046' WHERE "feeds"."id" = 3
+  [1m[36m (0.6ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35mEntry Load (0.7ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 3]]
+Completed 200 OK in 263ms (Views: 226.5ms | ActiveRecord: 33.2ms)
+
+
+Started GET "/api/feeds/4" for 127.0.0.1 at 2015-04-02 14:53:30 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"4"}
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "4"]]
+  [1m[35mSQL (0.7ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:53:30.805494' WHERE "feeds"."id" = 4
+  [1m[36m (0.7ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (1.7ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00], ["feed_id", 4], ["guid", "http://qz.com/375828/quartz-daily-brief-irans-nuclear-strides-the-second-germanwings-black-box-apple-spars-with-europe-indian-business-wives/"], ["json", "{\"title\":\"Quartz Daily Brief—Iran\\u0026#8217;s nuclear strides, the second Germanwings black box, Apple spars with Europe, Indian business wives\",\"link\":\"http://qz.com/375828/quartz-daily-brief-irans-nuclear-strides-the-second-germanwings-black-box-apple-spars-with-europe-indian-business-wives/\",\"description\":\"Good morning, Quartz readers! What to watch for today Hillary Clinton\\u0026#8217;s email server. A US House of Representatives committee is demanding that the former first lady and possible presidential candidate hand over the private email server she used for email as US secretary of state. Clinton has said she deleted 30,000 personal emails from the server and submitted work-related ones to the [\\u0026#8230;]\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375828\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"content\":\"http://www.cnn.com/2015/03/20/politics/clinton-emails-house-committee-request/\",\"content_encoded\":\"\\u003Cp\\u003EGood morning, Quartz readers!\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003E\\u003Cem\\u003EWhat to watch for today\\u003C/em\\u003E\\u003C/strong\\u003E\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EHillary Clinton\\u0026#8217;s email server.\\u003C/strong\\u003E A US House of Representatives committee is demanding that the former first lady and possible presidential candidate \\u003Ca href=\\\"http://www.cnn.com/2015/03/20/politics/clinton-emails-house-committee-request/\\\" target=\\\"_blank\\\"\\u003Ehand over the private email server\\u003C/a\\u003E she used for email as US secretary of state. Clinton has said \\u003Ca href=\\\"http://www.businessinsider.com/ted-cruz-hillary-clinton-apparently-broke-the-law-2015-4\\\" target=\\\"_blank\\\"\\u003Eshe deleted 30,000 personal emails\\u003C/a\\u003E from the server and submitted work-related ones to the State Department.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003ECar makers battle at New York\\u0026#8217;s auto show.\\u003C/strong\\u003E \\u003Ca href=\\\"http://www.autoshowny.com/\\\" target=\\\"_blank\\\"\\u003ECompanies will flout their latest models\\u003C/a\\u003E and futuristic concepts, including \\u003Ca href=\\\"http://money.cnn.com/2015/03/23/autos/self-driving-car-trip/\\\" target=\\\"_blank\\\"\\u003Ean Audi modified with autonomous driving technology\\u003C/a\\u003E that began its trip to New York from California about a week ago.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cb\\u003EThe US jobs report for March.\\u003C/b\\u003E Unemployment is \\u003Ca href=\\\"http://www.marketwatch.com/story/what-happens-when-jobs-report-is-released-on-good-friday-2015-03-27\\\" target=\\\"_blank\\\"\\u003Eexpected to stay unchanged\\u003C/a\\u003E at 5.5%. Anything much higher could impact markets, by suggesting that the Federal Reserve might \\u003Ca href=\\\"http://www.usatoday.com/story/money/2015/03/15/fed-march-meeting/70285716/\\\" target=\\\"_blank\\\"\\u003Eraise interest rates sooner\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EGood Friday.\\u003C/strong\\u003E The New York Stock Exchange and the NASDAQ will be closed for the Christian holiday. Major markets in London, Paris, and Frankfurt will close on Friday and the Monday after (April 6). Several exchanges in \\u003Ca href=\\\"http://www.marketwatch.com/story/when-do-markets-close-for-good-friday-2015-03-27\\\" target=\\\"_blank\\\"\\u003EAsia will also\\u003C/a\\u003E take off.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cem\\u003E\\u003Cstrong\\u003EWhile you were sleeping\\u003C/strong\\u003E\\u003C/em\\u003E\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EIran and six world powers reach a preliminary nuclear deal.\\u003C/strong\\u003E Many details of the agreement struck by Iran and six global powers in Switzerland haven\\u0026#8217;t been made public, but Iran\\u0026#8217;s foreign minister said negotiators \\u003Ca href=\\\"http://www.bbc.com/news/world-middle-east-32166814\\\" target=\\\"_blank\\\"\\u003Ehad found \\u0026#8220;solutions\\u0026#8221;\\u003C/a\\u003E on the country\\u0026#8217;s contentious nuclear program, after eight days of talks. A drafted comprehensive nuclear accord is expected by June 30.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EThe second Germanwings black box was found.\\u003C/strong\\u003E After searching \\u003Ca href=\\\"http://news.yahoo.com/second-black-box-found-french-alps-plane-crash-134958557.html\\\" target=\\\"_blank\\\"\\u003Efor a little over week\\u003C/a\\u003E, authorities are hoping the black box reveals more clues about the co-pilot suspected of intentionally crashing a commercial airplane, which killed 150 people on-board. German prosecutors also revealed \\u003Ca href=\\\"http://bigstory.ap.org/article/bfac888d95e54d559aa41998f0a39638/investigators-find-cellphones-amid-german-crash-debris\\\" target=\\\"_blank\\\"\\u003Ethat co-pilot\\u003C/a\\u003E Andreas Lubitz searched for information about suicide and cockpit doors, based on the browser history of a tablet found in his Duesseldorf apartment.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EEuropean regulators homed in on Apple\\u0026#8217;s music streaming plans.\\u003C/strong\\u003E The Financial Times reports that Apple\\u0026#8217;s relationship with record labels is being \\u003Ca href=\\\"http://www.ft.com/intl/cms/s/0/79be3a06-d8fa-11e4-b907-00144feab7de.html?ftcamp=published_links/rss/home_us/feed//product\\u0026amp;siteedition=uk#axzz3Vq4pW6ku\\\" target=\\\"_blank\\\"\\u003Eclosely scrutinized\\u003C/a\\u003E (paywall), with European regulators sending questionnaires to labels about how the electronics maker is doing business. Apple faced a similar issue in the US over electronic books \\u003Ca href=\\\"http://www.theguardian.com/technology/2014/jun/17/apple-settles-840m-ebook-price-fixing-case\\\" target=\\\"_blank\\\"\\u003Ethat resulted in steep fines\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EAirbnb came to Cuba.\\u003C/strong\\u003E The home rental website has launched in Cuba, giving its 11.5 million citizens the chance to \\u003Ca href=\\\"http://qz.com/375270/why-airbnb-has-the-perfect-business-model-for-cuba/\\\" target=\\\"_blank\\\"\\u003Eearn extra income\\u003C/a\\u003E from the pending flood of American tourists. Roughly \\u003Ca href=\\\"http://www.bloomberg.com/news/articles/2015-04-02/airbnb-is-now-available-in-cuba\\\" target=\\\"_blank\\\"\\u003E1,000 listing are available\\u003C/a\\u003E, most in the capital, Havana.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EAn American citizen was charged with conspiring to help terrorists.\\u003C/strong\\u003E Muhanad Mahmoud al Farekh, a Texas-born 29-year-old, was \\u003Ca href=\\\"http://www.washingtonpost.com/world/national-security/american-citizen-suspected-of-being-al-qaeda-member-captured-brought-to-us/2015/04/02/48e8cc4c-d89c-11e4-8103-fa84725dbf9d_story.html\\\"\\u003Esecretly flown to the United States\\u003C/a\\u003E after being captured in Pakistan where it\\u0026#8217;s alleged he was one of al-Qaeda\\u0026#8217;s top operatives.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cem\\u003E\\u003Cstrong\\u003EQuartz obsession interlude\\u003C/strong\\u003E\\u003C/em\\u003E\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003ELeo Mirani on Google\\u0026#8217;s run-in with European regulators.\\u003C/strong\\u003E \\u0026#8220;For Google and Europe, it is only the end of beginning. After five years of wrangling, three attempts at some sort of settlement, and a change of guard at the top of European bureaucracy, Europe is getting ready to file formal antitrust charges against Google.\\u0026#8221; \\u003Ca href=\\\"http://qz.com/375265/europe-may-be-about-to-slap-antitrust-charges-on-google/\\\" target=\\\"_blank\\\"\\u003ERead more here\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cem\\u003E\\u003Cstrong\\u003EMatters of debate\\u003C/strong\\u003E\\u003C/em\\u003E\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EComedians sometimes say inappropriate things—get over it.\\u003C/strong\\u003E The South African comic who\\u0026#8217;s set to replace Jon Stewart made a few jokes that weren\\u0026#8217;t great, \\u003Ca href=\\\"http://www.theguardian.com/commentisfree/2015/apr/01/trevor-noah-sent-8882-tweets-some-were-not-funny-get-over-it\\\" target=\\\"_blank\\\"\\u003Ejust like every other comic\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EMore education won\\u0026#8217;t fix income inequality.\\u003C/strong\\u003E Earning a degree will earn you more money, but \\u003Ca href=\\\"http://www.nytimes.com/2015/04/01/upshot/why-more-education-wont-fix-economic-inequality.html?abt=0002\\u0026amp;abg=1\\u0026amp;smid=tw-upshotnyt\\\" target=\\\"_blank\\\"\\u003Eno where near as much as the well-to-do\\u003C/a\\u003E (paywall).\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003ENigeria’s election is a victory for democracy.\\u003C/strong\\u003E The danger Nigerian citizens subjected themselves to by voting \\u003Ca href=\\\"http://www.washingtonpost.com/opinions/nigerias-day-in-the-sun/2015/04/01/1483781c-d874-11e4-8103-fa84725dbf9d_story.html?wprss=rss_opinions\\\" target=\\\"_blank\\\"\\u003Edeserves to be praised\\u003C/a\\u003E and met with a smooth political transition.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003ELoan sharks will always find a way.\\u003C/strong\\u003E So-called \\u0026#8220;payday lenders\\u0026#8221; that offer short-term loans with absurdly high interest rates are \\u003Ca href=\\\"http://www.psmag.com/business-economics/will-the-fed-ever-be-able-to-stop-payday-and-other-high-cost-lenders\\\" target=\\\"_blank\\\"\\u003Eimmune to US government regulation\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cem\\u003E\\u003Cstrong\\u003ESurprising discoveries\\u003C/strong\\u003E\\u003C/em\\u003E\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EGeneral Electric is building a giant gas turbine.\\u003C/strong\\u003E The \\u003Ca href=\\\"http://www.bloomberg.com/news/articles/2015-04-01/ge-makes-once-a-decade-bet-on-big-turbines-as-energy-use-surges\\\" target=\\\"_blank\\\"\\u003Eturbine\\u003C/a\\u003E, which weighs as much as a Boeing 737 and can power 400,000 homes, is a bet on growth in global electricity consumption and GE\\u0026#8217;s renewed industrial focus.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003ERich Indian businessmen are bringing their wives to work.\\u003C/strong\\u003E The heads of companies are putting their wives on company boards to \\u003Ca href=\\\"http://www.bbc.com/news/business-32146715\\\" target=\\\"_blank\\\"\\u003Ecomply with a new quota law\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EPerfume can make you smell better the more you sweat.\\u003C/strong\\u003E \\u003Ca href=\\\"http://phys.org/news/2015-04-scientists-perfume.html\\\" target=\\\"_blank\\\"\\u003EResearchers at Queen\\u0026#8217;s University Belfast\\u003C/a\\u003E invented a perfume that amps up its scent in reaction to moisture, while also reducing bad odors associated with sweat.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cstrong\\u003EAssociating with Snoop Dogg can damage your career.\\u003C/strong\\u003E A Texas state trooper was scolded and \\u003Ca href=\\\"http://www.theguardian.com/us-news/2015/apr/02/texas-state-trooper-counselling-snoop-dogg-instagram?CMP=share_btn_tw\\\" target=\\\"_blank\\\"\\u003Erequired to seek\\u003C/a\\u003E counseling after posing for a photo with famed rap artist Snoop Dogg at the South by Southwest festival in Austin.\\u003C/p\\u003E\\n\\u003Cp\\u003EOur best wishes for a productive day. Please send any news, comments, corporate board candidates, and Snoop Dogg selfies to \\u003Ca href=\\\"mailto:hi@qz.com\\\" target=\\\"_blank\\\"\\u003Ehi@qz.com\\u003C/a\\u003E. You can follow us \\u003Ca href=\\\"http://us5.list-manage.com/track/click?u=610c6c88d981c23e5c6638b14\\u0026amp;id=97a087fb77\\u0026amp;e=b306a1f2ef\\\" target=\\\"_blank\\\"\\u003Eon Twitter here\\u003C/a\\u003E for updates throughout the day.\\u003C/p\\u003E\\n\\u003Ch2\\u003ESign up for the Quartz Daily Brief \\u003Ca href=\\\"https://ssl.qz.com/brief\\\"\\u003Ehere\\u003C/a\\u003E, tailored for morning delivery in Asia, Europe \\u0026amp; Africa, and the Americas.\\u003C/h2\\u003E\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375828\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"comments\":\"http://qz.com/375828/quartz-daily-brief-irans-nuclear-strides-the-second-germanwings-black-box-apple-spars-with-europe-indian-business-wives/#comments\",\"pubDate\":\"2015-04-02T14:43:44-07:00\",\"category\":\"Uncategorized\",\"guid\":\"http://qz.com/375828/quartz-daily-brief-irans-nuclear-strides-the-second-germanwings-black-box-apple-spars-with-europe-indian-business-wives/\",\"dc_creator\":\"Stefan Constantinescu\"}"], ["link", "http://qz.com/375828/quartz-daily-brief-irans-nuclear-strides-the-second-germanwings-black-box-apple-spars-with-europe-indian-business-wives/"], ["published_at", Thu, 02 Apr 2015 21:43:44 UTC +00:00], ["title", "Quartz Daily Brief—Iran&#8217;s nuclear strides, the second Germanwings black box, Apple spars with Europe, Indian business wives"], ["updated_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00]]
+  [1m[35m (0.5ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00], ["feed_id", 4], ["guid", "http://qz.com/?p=375545"], ["json", "{\"title\":\"The Meerkat-Periscope live-streaming race is neck-and-neck after a crazy week\",\"link\":\"http://qz.com/375545/the-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week/\",\"description\":\"The rise of two strikingly similar mobile live-video streaming apps—Meerkat and Periscope—has recently provided a thrilling little competition. Meerkat, an experimental spinoff from a failing video startup, launched in late February. It built steam as its audience evolved from early-adopter-types to Hollywood celebrities, attracting more than 500,000 users. Periscope, a startup that Twitter had acquired earlier this year, exploded [\\u0026#8230;]\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375545\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"content\":\"\",\"content_encoded\":\"\\u003Cimg width=\\\"640\\\" height=\\\"360\\\" src=\\\"https://qzprod.files.wordpress.com/2015/04/meerkat.jpg?w=640\\\" class=\\\"attachment-medium_10 wp-post-image\\\" alt=\\\"Meerkat\\\" /\\u003E\\u003Cp\\u003EThe rise of two strikingly similar mobile live-video streaming apps—Meerkat and Periscope—has recently provided a thrilling little competition.\\u003C/p\\u003E\\n\\u003Cp\\u003EMeerkat, an experimental spinoff from a failing video startup, launched in late February. It built steam as its audience evolved from early-adopter-types to Hollywood celebrities, attracting more than 500,000 users.\\u003C/p\\u003E\\n\\u003Cp\\u003EPeriscope, a startup that Twitter had \\u003Ca href=\\\"http://recode.net/2015/03/09/twitter-has-acquired-live-video-startup-periscope/\\\" target=\\\"_blank\\\"\\u003Eacquired earlier this year\\u003C/a\\u003E, exploded onto the scene last week. Periscope fed on Meerkat\\u0026#8217;s buzz to quickly leapfrog it in popularity, as measured by tweets with links to each service.\\u003C/p\\u003E\\n\\u003Cfigure id=\\\"image-375597\\\" class=\\\"inline-image  alignnone zoomable size-medium\\\"\\u003E\\u003Cdiv class=\\\"inline-image-tools\\\"\\u003E\\u003Ca href=\\\"#\\\" class=\\\"share-button\\\" data-image-id=\\\"375597\\\"\\u003EShare\\u003C/a\\u003E\\n\\t\\t\\t\\u003Cdiv class=\\\"share-icons desaturated\\\"\\u003E\\u003Ca href=\\\"https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F375545%2Fthe-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week%2Fi%2F375597%2F\\u0026text=The+Meerkat-Periscope+live-streaming+race+is+neck-and-neck+after+a+crazy+week\\u0026via=qz\\\" target=\\\"_blank\\\" class=\\\"icon-twitter\\\"\\u003E\\u003C/a\\u003E\\u003Ca href=\\\"https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F375545%2Fthe-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week%2Fi%2F375597%2F\\\" target=\\\"_blank\\\" class=\\\"icon-facebook\\\"\\u003E\\u003C/a\\u003E\\u003C/div\\u003E\\u003Cspan class=\\\"help-text\\\"\\u003E\\u003Ci class=\\\"icon-zoom\\\"\\u003E\\u003C/i\\u003ETap image to zoom\\u003C/span\\u003E\\u003C/div\\u003E\\u003Cimg src=\\\"https://qzprod.files.wordpress.com/2015/04/tweets-with-links-to-live-streams-meerkat-and-periscope_chartbuilder.png?w=640\\\" data-retina=\\\"https://qzprod.files.wordpress.com/2015/04/tweets-with-links-to-live-streams-meerkat-and-periscope_chartbuilder.png?w=1024\\\" alt=\\\"Meerkat Periscope chart\\\" title=\\\"\\\"/\\u003E\\u003C/figure\\u003E\\n\\u003Cp\\u003EBut after a big spike, Periscope has fallen back to earth. Over the past few days, Periscope links have received a few thousand more tweets per day than Meerkat, \\u003Ca href=\\\"http://topsy.com/analytics?q1=site%3Ameerkatapp.co\\u0026amp;q2=site%3Aperiscope.tv\\u0026amp;via=Topsy\\\" target=\\\"_blank\\\"\\u003Eaccording to Topsy\\u003C/a\\u003E, which tracks Twitter. That\\u0026#8217;s hardly an insurmountable lead.\\u003C/p\\u003E\\n\\u003Cfigure id=\\\"image-375594\\\" class=\\\"inline-image  alignnone zoomable size-medium\\\"\\u003E\\u003Cdiv class=\\\"inline-image-tools\\\"\\u003E\\u003Ca href=\\\"#\\\" class=\\\"share-button\\\" data-image-id=\\\"375594\\\"\\u003EShare\\u003C/a\\u003E\\n\\t\\t\\t\\u003Cdiv class=\\\"share-icons desaturated\\\"\\u003E\\u003Ca href=\\\"https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F375545%2Fthe-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week%2Fi%2F375594%2F\\u0026text=The+Meerkat-Periscope+live-streaming+race+is+neck-and-neck+after+a+crazy+week\\u0026via=qz\\\" target=\\\"_blank\\\" class=\\\"icon-twitter\\\"\\u003E\\u003C/a\\u003E\\u003Ca href=\\\"https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F375545%2Fthe-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week%2Fi%2F375594%2F\\\" target=\\\"_blank\\\" class=\\\"icon-facebook\\\"\\u003E\\u003C/a\\u003E\\u003C/div\\u003E\\u003Cspan class=\\\"help-text\\\"\\u003E\\u003Ci class=\\\"icon-zoom\\\"\\u003E\\u003C/i\\u003ETap image to zoom\\u003C/span\\u003E\\u003C/div\\u003E\\u003Cimg src=\\\"https://qzprod.files.wordpress.com/2015/04/animated-tweets-with-links-to-live-streams-meerkat-periscope_chartbuilder.gif?w=640\\\" data-retina=\\\"https://qzprod.files.wordpress.com/2015/04/animated-tweets-with-links-to-live-streams-meerkat-periscope_chartbuilder.gif?w=640\\\" alt=\\\"Animated Periscope Meerkat chart\\\" title=\\\"\\\"/\\u003E\\u003C/figure\\u003E\\n\\u003Cp\\u003EMany expect Periscope to win. Its affiliation with Twitter seems like a real strength, considering Twitter\\u0026#8217;s distribution power, its ability to directly integrate Periscope, and its relationships with media and celebrities. But it\\u0026#8217;s hardly clear if this will be a winner-take-all market—or whether live streaming will simply become a feature of every social product, from Snapchat to WhatsApp. (And—if so—if someone will purchase Meerkat for a lot of money.)\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u0026#8220;This is not a zero-sum game,\\u0026#8221; Josh Elman, the Greylock partner who just led Meerkat\\u0026#8217;s \\u003Ca href=\\\"http://www.greylock.com/investment-meerkat-power-spontaneous-togetherness/\\\" target=\\\"_blank\\\"\\u003E$12 million financing round\\u003C/a\\u003E, tells Quartz. (In addition to working in product roles at Facebook, Twitter, and LinkedIn, Elman started his career at RealNetworks, the 1990s streaming video pioneer, and has watched the industry evolve over 18 years.)\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u0026#8220;The number of multi-billion-dollar companies around the distribution, programming, and content of live video is massive,\\u0026#8221; Elman says, calling out the uniquely interactive and participatory nature of this new wave of mobile services. \\u0026#8220;There\\u0026#8217;s so much opportunity here, it\\u0026#8217;s crazy.\\u0026#8221;\\u003C/p\\u003E\\n\\u003Cp\\u003EThe bigger question: Is this new market going to last? Or is it simply a fad, like Chatroulette years ago?\\u003C/p\\u003E\\n\\u003Cp\\u003EIt\\u0026#8217;s easy to see why live streaming is finally catching on. From a practical standpoint, mobile networks are now fast enough in many places to support high-quality video streaming. (Our early experience with these services, however, has been flaky.) Screens are bigger, and people are simply \\u003Ca href=\\\"http://qz.com/365293/it-took-a-decade-but-mobile-video-is-finally-exploding/\\\" target=\\\"_blank\\\"\\u003Ewatching more video on their phones\\u003C/a\\u003E. From a business perspective, this is also a potentially great development. Video is an excellent medium for advertising, and the immediacy of live events is an added bonus.\\u003C/p\\u003E\\n\\u003Cfigure id=\\\"image-375742\\\" class=\\\"inline-image  alignnone zoomable size-large\\\"\\u003E\\u003Cdiv class=\\\"inline-image-tools\\\"\\u003E\\u003Ca href=\\\"#\\\" class=\\\"share-button\\\" data-image-id=\\\"375742\\\"\\u003EShare\\u003C/a\\u003E\\n\\t\\t\\t\\u003Cdiv class=\\\"share-icons desaturated\\\"\\u003E\\u003Ca href=\\\"https://twitter.com/intent/tweet?url=http%3A%2F%2Fqz.com%2F375545%2Fthe-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week%2Fi%2F375742%2F\\u0026text=The+Meerkat-Periscope+live-streaming+race+is+neck-and-neck+after+a+crazy+week\\u0026via=qz\\\" target=\\\"_blank\\\" class=\\\"icon-twitter\\\"\\u003E\\u003C/a\\u003E\\u003Ca href=\\\"https://www.facebook.com/sharer.php?u=http%3A%2F%2Fqz.com%2F375545%2Fthe-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week%2Fi%2F375742%2F\\\" target=\\\"_blank\\\" class=\\\"icon-facebook\\\"\\u003E\\u003C/a\\u003E\\u003C/div\\u003E\\u003Cspan class=\\\"help-text\\\"\\u003E\\u003Ci class=\\\"icon-zoom\\\"\\u003E\\u003C/i\\u003ETap image to zoom\\u003C/span\\u003E\\u003C/div\\u003E\\u003Cimg src=\\\"https://qzprod.files.wordpress.com/2015/04/periscopes.jpg?w=1024\\\" data-retina=\\\"https://qzprod.files.wordpress.com/2015/04/periscopes.jpg?w=1024\\\" alt=\\\"Scenes from Periscope\\\" title=\\\"Scenes from Periscope.\\\"/\\u003E\\u003Cfigcaption class=\\\"inline-image-caption\\\"\\u003EScenes from Periscope.\\u003Cspan class=\\\"inline-image-credit\\\"\\u003E(Screenshot)\\u003C/span\\u003E\\u003C/figcaption\\u003E\\u003C/figure\\u003E\\n\\u003Cp\\u003EMeanwhile, thanks to the popularity of services like Snapchat, Vine, and Twitter, people seem increasingly comfortable publishing video of themselves.\\u003C/p\\u003E\\n\\u003Cp\\u003EBut that hasn\\u0026#8217;t led to reliably great content on Meerkat and Periscope. In our experience so far, some streams have been pleasant, such as a live view of Tokyo\\u0026#8217;s Shibuya crossing. Some have been amusing. Others have been grotesque, such as a man using the toilet. None has been worth watching for more than a few moments.\\u003C/p\\u003E\\n\\u003Cp\\u003EThe real magic seems to be the immediacy and breadth of available streams. There are still some questions to be worked out around the incentives for people to create and watch streams, especially once the initial curiosity and experimentation wears off. But there seems to be something here. The real key for Meerkat and Periscope, now, is to build the best possible tools for creating and participating in these streams, and making them an essential part of millions of lives. The race is on.\\u003C/p\\u003E\\n\\u003Ch3\\u003ERead this next: \\u003Ca href=\\\"http://qz.com/365293/it-took-a-decade-but-mobile-video-is-finally-exploding/\\\" target=\\\"_blank\\\"\\u003EIt took a decade, but mobile video is finally exploding\\u003C/a\\u003E\\u003C/h3\\u003E\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375545\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"comments\":\"http://qz.com/375545/the-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week/#comments\",\"pubDate\":\"2015-04-02T14:00:41-07:00\",\"category\":\"Glass\",\"guid\":\"http://qz.com/?p=375545\",\"dc_creator\":\"Dan Frommer\",\"media_content_url\":\"https://qzprod.files.wordpress.com/2015/04/meerkat.jpg?w=640\",\"media_content_type\":\"html\",\"media_title\":\"meerkat\",\"media_thumbnail_url\":\"https://qzprod.files.wordpress.com/2015/04/meerkat.jpg?w=640\"}"], ["link", "http://qz.com/375545/the-meerkat-periscope-live-streaming-race-is-neck-and-neck-after-a-crazy-week/"], ["published_at", Thu, 02 Apr 2015 21:00:41 UTC +00:00], ["title", "The Meerkat-Periscope live-streaming race is neck-and-neck after a crazy week"], ["updated_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00], ["feed_id", 4], ["guid", "http://qz.com/?p=375757"], ["json", "{\"title\":\"Ways to fix Russia\\u0026#8217;s economy\",\"link\":\"http://qz.com/375757/ways-to-fix-russias-economy/\",\"description\":\"You can follow Scott on Twitter at @Disalmanacarian and his book at @Disalmanac. We welcome your comments at ideas@qz.com.\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375757\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"content\":\"\",\"content_encoded\":\"\\u003Cimg width=\\\"640\\\" height=\\\"640\\\" src=\\\"https://qzprod.files.wordpress.com/2015/04/qz040115-01_colorcorrected.jpeg?w=640\\\" class=\\\"attachment-medium_10 wp-post-image\\\" alt=\\\"QZ040115-01_colorcorrected\\\" /\\u003E\\u003Cp class=\\\"p1\\\"\\u003E\\u003Cspan class=\\\"s1\\\"\\u003E\\u003Ci\\u003EYou can follow Scott on Twitter at \\u003C/i\\u003E\\u003Ca href=\\\"https://twitter.com/Disalmanacarian\\\"\\u003E\\u003Cspan class=\\\"s2\\\"\\u003E\\u003Ci\\u003E@Disalmanacarian\\u003C/i\\u003E\\u003C/span\\u003E\\u003C/a\\u003E\\u003Ci\\u003E and his book at \\u003C/i\\u003E\\u003Ca href=\\\"https://twitter.com/Disalmanac\\\"\\u003E\\u003Cspan class=\\\"s2\\\"\\u003E\\u003Ci\\u003E@Disalmanac\\u003C/i\\u003E\\u003C/span\\u003E\\u003C/a\\u003E\\u003Ci\\u003E. We welcome your comments at \\u003C/i\\u003E\\u003Ca href=\\\"mailto:ideas@qz.com\\\"\\u003E\\u003Cspan class=\\\"s2\\\"\\u003E\\u003Ci\\u003Eideas@qz.com\\u003C/i\\u003E\\u003C/span\\u003E\\u003C/a\\u003E\\u003Ci\\u003E.\\u003C/i\\u003E\\u003C/span\\u003E\\u003C/p\\u003E\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375757\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"comments\":\"http://qz.com/375757/ways-to-fix-russias-economy/#comments\",\"pubDate\":\"2015-04-02T13:36:53-07:00\",\"category\":\"Uncategorized\",\"guid\":\"http://qz.com/?p=375757\",\"dc_creator\":\"Scott Bateman\",\"media_content_url\":\"https://qzprod.files.wordpress.com/2015/04/qz040115-01_colorcorrected.jpeg?w=640\",\"media_content_type\":\"html\",\"media_title\":\"QZ040115-01_colorcorrected\",\"media_thumbnail_url\":\"https://qzprod.files.wordpress.com/2015/04/qz040115-01_colorcorrected.jpeg?w=640\"}"], ["link", "http://qz.com/375757/ways-to-fix-russias-economy/"], ["published_at", Thu, 02 Apr 2015 20:36:53 UTC +00:00], ["title", "Ways to fix Russia&#8217;s economy"], ["updated_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (43.7ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00], ["feed_id", 4], ["guid", "http://qz.com/?p=375652"], ["json", "{\"title\":\"Why terrorists target schools and universities\",\"link\":\"http://qz.com/375652/why-terrorists-are-targeting-schools-and-universities-now/\",\"description\":\"Early on the morning of Apr. 2, 2015, a squad of gunmen, reportedly affiliated with Somalia’s al-Shabab jihadist-terror group, entered Garissa University College in Garissa, Kenya, killing 147 and wounding dozens. “The assault on Garissa—a poor, pastoral area that is home to many Somali refugees—stands in stark contrast to the group’s deadly 2013 attack on Nairobi’s Westgate shopping center, [\\u0026#8230;]\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375652\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"content\":\"\",\"content_encoded\":\"\\u003Cimg width=\\\"640\\\" height=\\\"360\\\" src=\\\"https://qzprod.files.wordpress.com/2015/04/kenya.jpg?w=640\\\" class=\\\"attachment-medium_10 wp-post-image\\\" alt=\\\"Kenyan security forces patrol the fenced border around Garissa University College.\\\" /\\u003E\\u003Cp\\u003EEarly on the morning of Apr. 2, 2015, \\u003Ca href=\\\"http://qz.com/375137\\\" target=\\\"_blank\\\"\\u003Ea squad of gunmen\\u003C/a\\u003E, reportedly affiliated with Somalia’s al-Shabab jihadist-terror group, entered Garissa University College in Garissa, Kenya, killing 147 and wounding dozens.\\u003C/p\\u003E\\n\\u003Cp\\u003E“The assault on Garissa—a poor, pastoral area that is home to many Somali refugees—stands in stark contrast to the group’s deadly 2013 attack on Nairobi’s Westgate shopping center, which was frequented by expats and rich Kenyans,” \\u003Ca href=\\\"https://qzprod.wordpress.com/wp-admin/post.php?post=371410\\u0026amp;action=edit\\u0026amp;message=1\\\" target=\\\"_blank\\\"\\u003Ewrite\\u003C/a\\u003E Lily Kuo and Hanna Kozlowska for Quartz. It\\u0026#8217;s part of a perceptible shift in modern terror tactics; increasingly, the world’s terror organizations seem to be turning away from attacks on subway cars and airport terminals, to focus lethal attention on institutions of learning.\\u003C/p\\u003E\\n\\u003Cp\\u003ESeven gunmen affiliated with an offshoot of the Taliban \\u003Ca href=\\\"http://www.cnn.com/2014/12/16/world/asia/pakistan-peshawar-school-attack/\\\" target=\\\"_blank\\\"\\u003Ebrutally murdered 145 people at a school\\u003C/a\\u003E in Peshawar, Pakistan, in Dec. 2014. A self-proclaimed al-Qaeda\\u003Ci\\u003E \\u003C/i\\u003Eoperative \\u003Ca href=\\\"http://world.time.com/2012/03/22/siege-of-toulouse-gunman-ends-as-details-of-assassins-voyage-to-jihadist-terror-emerge/\\\" target=\\\"_blank\\\"\\u003Eshot and killed seven outside a Jewish school in Toulouse,\\u003C/a\\u003E France, in Mar. 2012. In October of that year, Pakistani education advocate Malala Yousafzai was \\u003Ca href=\\\"http://www.bbc.com/news/magazine-24379018\\\" target=\\\"_blank\\\"\\u003Eshot in the face by a masked gunman\\u003C/a\\u003E while she rode a bus home from school. Militants linked to the Chechen separatist insurgency in the Russian Federation \\u003Ca href=\\\"http://www.theguardian.com/world/beslan\\\" target=\\\"_blank\\\"\\u003Ekilled 334 people and held over 1,000 hostage at a school in Beslan\\u003C/a\\u003E, North Ossetia, in Sept. 2004. And Boko Haram, of course, first rose to global prominence for \\u003Ca href=\\\"http://www.washingtonpost.com/blogs/worldviews/wp/2014/10/17/six-months-after-abducting-nigerian-schoolgirls-boko-haram-reportedly-wants-to-free-them/\\\" target=\\\"_blank\\\"\\u003Ekidnapping 276 schoolgirls in the Nigerian town of Chibok \\u003C/a\\u003Ein Apr. 2014.\\u003C/p\\u003E\\n\\u003Cp\\u003EOne reason that “terrorist organizations might choose to target educational institutions is that schools and school children act as powerful symbolic targets,” wrote Emma Bradford and Margaret A. Wilson, forensic psychologists at the University of Liverpool, in a 2013 analysis for the \\u003Cem\\u003EJournal of Police and Criminal Psychology\\u003C/em\\u003E. “Attacks on these targets evoke a strong emotional response.”\\u003C/p\\u003E\\n\\u003Cp\\u003E“Schools and other educational institutions represent ‘soft targets,’” they added. “A soft target is a relatively unguarded site where people congregate, normally in large numbers, thus offering the potential for mass casualties.” But practicalities aside, there are also specific, political and cultural reasons a terrorist cell might target a school or university. And this is where such acts diverge from the usual modes of modern terror.\\u003C/p\\u003E\\n\\u003Cp\\u003EThough bombing public transport takes months, if not years of intensive planning, it is intended to make the act appear random—anyone could become a victim by passing through at the wrong time. The terrifying power of this particular terror tactic is, after all, its unpredictability. An ideological message is usually announced in the aftermath.\\u003C/p\\u003E\\n\\u003Cp\\u003EAttacking schools, however, is predictable because the act \\u003Cem\\u003Eis \\u003C/em\\u003Ethe message. Terrorists who attack schools intend to deplete the number of institutions disseminating philosophies ostensibly contradictory to their worldview; “Boko Haram,” roughly translated from the Hausa language means “\\u003Ca href=\\\"http://www.bbc.com/news/blogs-magazine-monitor-27390954\\\" target=\\\"_blank\\\"\\u003EWestern education is forbidden\\u003C/a\\u003E.”\\u003C/p\\u003E\\n\\u003Cp\\u003E“They’re attacking what they see as the institutions of culture, and in particular the institutions of Western culture,” Ebrahim Moosa, professor of Islamic studies at the University of Notre Dame, \\u003Ca href=\\\"http://www.csmonitor.com/USA/Foreign-Policy/2014/1216/Pakistan-school-attack-Why-children-are-becoming-a-more-common-terror-target\\\" target=\\\"_blank\\\"\\u003Etold\\u003C/a\\u003E The Christian Science Monitor following the attacks in Peshawar. “They see that the process of Westernization begins at school, so schools that violate strict Islamic education become targets.”\\u003C/p\\u003E\\n\\u003Cp\\u003EIt\\u0026#8217;s not difficult to see why Garissa was targeted. Kenyan schools consistently rank toward the best in the region, and the overall Kenyan population demonstrates one of the \\u003Ca href=\\\"http://www.unicef.org/infobycountry/kenya_statistics.html\\\" target=\\\"_blank\\\"\\u003Ehighest literacy rates\\u003C/a\\u003E on the continent. It is also a highly diverse place, with regards to religion and ethnicity, not unlike many African countries occupying the borderlands between Muslim-dominated North Africa and the Christian-dominated south. Consequently, Kenyan schools and universities are well-positioned for the maximal exchange of cultures, politics, and ideas—a concept that stands in direct opposition to the rigid ideologies of groups like al-Shabab.\\u003C/p\\u003E\\n\\u003Cp\\u003EAl-Shabab has a history of interfering in local education. In areas of Somalia under the group’s control, once co-ed schools have been gender segregated, with the majority of girls \\u003Ca href=\\\"http://www.somaliareport.com/index.php/post/1806/Al-Shabaab_Devastates_Education_for_Kids\\\" target=\\\"_blank\\\"\\u003Ebeing intimidated against enrolling\\u003C/a\\u003E, if not forcibly removed from schools all together. Whole classes of boys have been pulled out of schools and \\u003Ca href=\\\"http://www.bbc.com/news/world-africa-17111102\\\" target=\\\"_blank\\\"\\u003Econscripted into its ranks\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003EIn an audio message released following the attack at Garissa, Ali Mohamoud Raghe, a spokesperson for al-Shabab, said, “the university had been targeted because it was educating many Christian students in ‘a Muslim land under colony,’” \\u003Ca href=\\\"http://www.nytimes.com/2015/04/03/world/africa/garissa-university-college-shooting-in-kenya.html\\\" target=\\\"_blank\\\"\\u003Eaccording to The New York Times\\u003C/a\\u003E, “a reference to the large ethnic Somali population in a part of Kenya that Somalia once tried to claim. He called the university part of Kenya’s ‘plan to spread their Christianity and infidelity.’” Which makes al-Shabab’s objective crystal-clear, and all too familiar: to wipe out a generation of ideological non-adherents.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cem\\u003EYou can follow Jake on Twitter at \\u003Ca href=\\\"http://twitter.com/jakeflanagin\\\" target=\\\"_blank\\\"\\u003E@jakeflanagin\\u003C/a\\u003E. We welcome your comments at \\u003Ca href=\\\"mailto:ideas@qz.com\\\" target=\\\"_blank\\\"\\u003Eideas@qz.com\\u003C/a\\u003E.\\u003C/em\\u003E\\u003C/p\\u003E\\n\\u003Cp\\u003EQuartz is launching in Africa in June 2015. Sign up for announcements and updates \\u003Ca href=\\\"https://qz.typeform.com/to/HMIYxJ\\\" target=\\\"_blank\\\"\\u003Ehere\\u003C/a\\u003E.\\u003C/p\\u003E\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375652\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"comments\":\"http://qz.com/375652/why-terrorists-are-targeting-schools-and-universities-now/#comments\",\"pubDate\":\"2015-04-02T13:30:48-07:00\",\"category\":\"Uncategorized\",\"guid\":\"http://qz.com/?p=375652\",\"dc_creator\":\"Jake Flanagin\",\"media_content_url\":\"https://qzprod.files.wordpress.com/2015/04/kenya.jpg?w=640\",\"media_content_type\":\"html\",\"media_title\":\"Kenya\",\"media_thumbnail_url\":\"https://qzprod.files.wordpress.com/2015/04/kenya.jpg?w=640\"}"], ["link", "http://qz.com/375652/why-terrorists-are-targeting-schools-and-universities-now/"], ["published_at", Thu, 02 Apr 2015 20:30:48 UTC +00:00], ["title", "Why terrorists target schools and universities"], ["updated_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00]]
+  [1m[36m (0.5ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (1.3ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00], ["feed_id", 4], ["guid", "http://qz.com/?p=371410"], ["json", "{\"title\":\"Iran could become a second Saudi Arabia if sanctions are lifted\",\"link\":\"http://qz.com/371410/iran-could-become-a-second-saudi-arabia-if-sanctions-are-lifted/\",\"description\":\"Oh, great: the world can now look forward to two petro-states run by religious extremists with international ambitions for their sectarian agendas—and unlimited resources with which to pursue them. The removal of economic sanctions on Iran, as part of the nuclear agreement announced today, would free the Islamic Republic to seek parity with its hated rival, Saudi Arabia. You [\\u0026#8230;]\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=371410\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"content\":\"\",\"content_encoded\":\"\\u003Cimg width=\\\"640\\\" height=\\\"360\\\" src=\\\"https://qzprod.files.wordpress.com/2015/03/revguard.jpg?w=640\\\" class=\\\"attachment-medium_10 wp-post-image\\\" alt=\\\"Iran\\\" /\\u003E\\u003Cp\\u003EOh, great: the world can now look forward to \\u003Cem\\u003Etwo\\u003C/em\\u003E petro-states run by religious extremists with international ambitions for their sectarian agendas—and unlimited resources with which to pursue them. The removal of economic sanctions on Iran, as part of the nuclear agreement announced today, would free the Islamic Republic to seek parity with \\u003Ca href=\\\"http://www.mei.edu/content/iran-and-saudi-arabia-eternal-gamecocks\\\" target=\\\"_blank\\\"\\u003Eits hated rival\\u003C/a\\u003E, Saudi Arabia.\\u003C/p\\u003E\\n\\u003Cp\\u003EYou could argue that Iran is already Saudi Arabia’s mirror image—Tehran’s Shia theocracy reflecting Riyadh’s Sunni-fundamentalist visage. But, constrained by economic sanctions, Iran has lacked the resources to match Saudi Arabia’s influence. They may never be equals, but without the economic restraints, the Islamic Republic will have the ability to spread mayhem across the Middle East, more overtly, more effectively, and with more immediate destabilizing consequences, than the kingdom ever has.\\u003C/p\\u003E\\n\\u003Cp\\u003EEven if the US Congress decides Iran isn\\u0026#8217;t keeping to the deal and \\u003Ca href=\\\"http://www.cnn.com/2015/03/29/politics/boehner-iran-sanctions/\\\" target=\\\"_blank\\\"\\u003Eimposes new sanctions\\u003C/a\\u003E, the Obama administration would not be able—if indeed it were inclined to try—to get the other Western powers to go along, much less Russia or China. Although the negotiators have until the end of June to work out the nitty-gritty of the Lausanne arrangement, the other members of the P5+1 have signaled they will drop sanctions as soon as Iran has complied with the terms.\\u003C/p\\u003E\\n\\u003Cp\\u003EAnd given \\u003Ca href=\\\"http://www.voanews.com/content/mideast-concerned-by-irans-growing-influence-in-region/2680834.html\\\" target=\\\"_blank\\\"\\u003Ewhat Iran has managed\\u003C/a\\u003E to do with its few resources thus far—protecting Bashar al-Assad in Syria, supporting Hezbollah in Lebanon and Hamas in Gaza, backing the Houthis in Yemen, and building new militias in Iraq—it is frightening to contemplate how much more havoc the regime will wreak when the sanctions shackles come off.\\u003C/p\\u003E\\n\\u003Cp\\u003EThose who welcome the Lausanne arrangement will suggest it marks the start of Iran’s rehabilitation as a responsible, constructive member of the comity of nations. The regime will allow political and economic liberalization, and ordinary Iranians will become shiny, happy people holding hands. As I have argued, \\u003Ca href=\\\"http://qz.com/369102/for-iranians-the-best-outcome-of-a-nuclear-deal-is-also-the-least-likely/\\\" target=\\\"_blank\\\"\\u003Ethis is the least credible outcome\\u003C/a\\u003E. Far more likely, the Iranian regime will use the financial windfall from the lifting of sanctions—\\u003Ca href=\\\"http://qz.com/301458/iran-is-forgoing-1-6-billion-a-month-thanks-to-the-failed-nuclear-talks/\\\" target=\\\"_blank\\\"\\u003E$1.6 billion a month\\u003C/a\\u003E in oil revenue alone—to expand its corrosive influence in the Middle East, and beyond.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Ca href=\\\"http://www.pewforum.org/2009/10/07/mapping-the-global-muslim-population/#sunni-and-shia-populations\\\" target=\\\"_blank\\\"\\u003EEvery country with a sizable Shia community\\u003C/a\\u003E—especially Shia communities with grievances—must now worry about Iranian influence growing in their midst. Shia mosques, schools, and other institutions will turn to Tehran for financial aid, and some of it will come with strings attached. Just as Saudi largesse spreads the Wahhabi cult throughout the world, so too will Iranian assistance promote Tehran’s state doctrine, couched as a “revolutionary” ideology, which calls for political power to be checked and controlled by the clergy. If Tehran has lagged Riyadh in spreading theological poison, sanctions relief will give it the opportunity to catch up.\\u003C/p\\u003E\\n\\u003Cp\\u003EAn area where Iran will work furiously to restore its early lead is in the export of violence and terror. Tehran has a longer history here, having midwifed the birth of Hezbollah in the early 1980s. Terrorist groups spawned by the Wahhabi ideology—al-Qaeda, ISIL, et al—currently dominate the jihadi landscape, but \\u003Ca href=\\\"http://www.economist.com/news/middle-east-and-africa/21647367-shia-militias-are-proliferating-middle-east-shia-crescendo?fsrc=scn/tw_ec/the_shia_crescendo\\\" target=\\\"_blank\\\"\\u003EIran’s proxies are now on the ascendancy\\u003C/a\\u003E in Iraq and Yemen, and are already well entrenched in Lebanon. In Syria, they have fought ISIL to a draw, but Iran will now look to tip the balance in favor of Assad, backed by Hezbollah.\\u003C/p\\u003E\\n\\u003Cp\\u003EIf recent history is any guide, the regime in Tehran will seek to broaden its influence. If I had to predict where Iranian influence would grow fastest, I would look to Afghanistan, where \\u003Ca href=\\\"http://ngm.nationalgeographic.com/2008/02/afghanistan-hazara/phil-zabriskie-text\\\" target=\\\"_blank\\\"\\u003Ethe Shia minority \\u003C/a\\u003Ewill come under greater threat from the Sunni Taliban and ISIL when US forces leave; and, just possibly, to Pakistan, where the Shia face progressively greater \\u003Ca href=\\\"http://www.huffingtonpost.com/2014/02/03/sunni-shiite-violence-pakistan_n_4719094.html\\\" target=\\\"_blank\\\"\\u003Erepression at the hands of the Sunni majority\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003ESaudi Arabia is already responding to the Iranian ascendancy: Just look at Yemen, now \\u003Ca href=\\\"http://www.wsj.com/articles/saudi-arabia-presses-sunni-security-force-as-bulwark-against-iran-1427415577\\\" target=\\\"_blank\\\"\\u003Ecaught in the crossfire\\u003C/a\\u003E between Riyadh and Tehran. Again, history suggests that, rather than direct military confrontation, the Saudis will respond to Iran’s proxies with fifth columns of their own. Since it can no longer be seen to support al-Qaeda and ISIL, Riyadh will find new groups to back from within Sunni populations anxious about the rising Shia tide.\\u003C/p\\u003E\\n\\u003Cp\\u003EThe escalation of hostilities by proxy is inevitable: Its coffers expanded by the removal of sanctions, Iran will try to match Saudi Arabia in spending. Though Riyadh can muster more allies—there are, for instance, 10 nations in the \\u003Ca href=\\\"http://www.reuters.com/article/2015/03/27/us-yemen-security-coalition-factbox-idUSKBN0MN0UF20150327\\\" target=\\\"_blank\\\"\\u003Ecoalition currently bombing Yemen\\u003C/a\\u003E—Tehran’s proxies have greater fighting experience, which will be fortified with shiny new weapons gifted by their newly-flush sponsors. Iran can also dispatch battle-hardened commanders like \\u003Ca href=\\\"http://www.newyorker.com/magazine/2013/09/30/the-shadow-commander\\\" target=\\\"_blank\\\"\\u003EQassem Soleimani\\u003C/a\\u003E (paywall) to lead its surrogate legions.\\u003C/p\\u003E\\n\\u003Cp\\u003EWhat does it all mean for the rest of us? For the Middle East, the danger represented by a contest between the Islamic Republic and the kingdom is clear and present. For the wider Muslim world, it is serious and imminent. For the world at large, apart from the obvious humanitarian calamities in store and the economic impact of tensions between two giant oil producers, there’s also the certain knowledge that furies unleashed in the Middle East have a tendency to travel far beyond the region, with devastating consequences.\\u003C/p\\u003E\\n\\u003Cp\\u003EAnd for the US? We\\u0026#8217;ve already had a glimpse of the complexities Washington now faces in \\u003Ca href=\\\"http://www.latimes.com/world/middleeast/la-fg-us-mideast-iran-20150327-story.html#page=1\\\" target=\\\"_blank\\\"\\u003Epicking sides\\u003C/a\\u003E: American aircraft are helping Iran’s proxies in Iraq, even as American intelligence is helping the Saudis bomb Iranian proxies in Yemen. It is impossible to know which side the US will need to support in the next flashpoint. In a Middle East dominated by two poisonous petro-states, your enemy’s enemy is your friend. \\u003Cem\\u003EAnd\\u003C/em\\u003E your enemy. \\u003Cem\\u003EAnd\\u003C/em\\u003E your friend’s enemy. \\u003Cem\\u003EAnd\\u003C/em\\u003E your enemy’s friend. Yes, all at once.\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cem\\u003EYou can follow Bobby on Twitter at \\u003Ca class=\\\"ProfileHeaderCard-screennameLink u-linkComplex js-nav\\\" href=\\\"https://twitter.com/ghoshworld\\\"\\u003E@\\u003Cspan class=\\\"u-linkComplex-target\\\"\\u003Eghoshworld\\u003C/span\\u003E\\u003C/a\\u003E. We welcome your comments at \\u003Ca href=\\\"mailto:ideas@qz.com\\\" target=\\\"_blank\\\"\\u003Eideas@qz.com\\u003C/a\\u003E.\\u003C/em\\u003E\\u003C/p\\u003E\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=371410\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"comments\":\"http://qz.com/371410/iran-could-become-a-second-saudi-arabia-if-sanctions-are-lifted/#comments\",\"pubDate\":\"2015-04-02T12:33:23-07:00\",\"category\":\"Uncategorized\",\"guid\":\"http://qz.com/?p=371410\",\"dc_creator\":\"Bobby Ghosh\",\"media_content_url\":\"https://qzprod.files.wordpress.com/2015/03/revguard.jpg?w=640\",\"media_content_type\":\"html\",\"media_title\":\"RevGuard\",\"media_thumbnail_url\":\"https://qzprod.files.wordpress.com/2015/03/revguard.jpg?w=640\"}"], ["link", "http://qz.com/371410/iran-could-become-a-second-saudi-arabia-if-sanctions-are-lifted/"], ["published_at", Thu, 02 Apr 2015 19:33:23 UTC +00:00], ["title", "Iran could become a second Saudi Arabia if sanctions are lifted"], ["updated_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (1.0ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00], ["feed_id", 4], ["guid", "http://qz.com/?p=375584"], ["json", "{\"title\":\"Iran has blinked, bringing negotiators to a preliminary agreement on a nuclear deal\",\"link\":\"http://qz.com/375584/iran-has-blinked-bringing-negotiators-to-a-preliminary-agreement-on-a-nuclear-deal/\",\"description\":\"Iranian and international negotiators today described the outline of a nuclear agreement that they say gives them the confidence to proceed with an attempt to finalize a deal by June 30. The level of detail suggests an attempt to satisfy critics who have said Iran will never agree to seriously limit its work on enriched uranium, and [\\u0026#8230;]\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375584\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"content\":\"\",\"content_encoded\":\"\\u003Cimg width=\\\"640\\\" height=\\\"360\\\" src=\\\"https://qzprod.files.wordpress.com/2015/04/irantalks.jpg?w=640\\\" class=\\\"attachment-medium_10 wp-post-image\\\" alt=\\\"Time\\u0026#039;s up.\\\" /\\u003E\\u003Cp\\u003EIranian and international negotiators \\u003Ca href=\\\"http://www.bloomberg.com/news/articles/2015-04-02/iran-negotiators-agree-on-outline-nuclear-accord-diplomats-say\\\"\\u003Etoday described\\u003C/a\\u003E the outline of a nuclear agreement that they say gives them the confidence to proceed with an attempt to finalize a deal by June 30.\\u003C/p\\u003E\\n\\u003Cp\\u003EThe level of detail suggests an attempt to satisfy critics who have said Iran will never agree to seriously limit its work on enriched uranium, and toward the presumed creation of a nuclear weapon. But American opponents of the Iranian regime are still likely to assail the agreement, in particular a clause that provides a broad timetable for a lifting of all sanctions.\\u003C/p\\u003E\\n\\u003Cp\\u003EIran for the first time agreed, concretely, to reduce the number of its uranium-enriching centrifuges from the current 19,000 to somewhere between 5,000 and 6,000; to allow strict international oversight for a decade; and to either dilute its current stock of highly enriched uranium or ship it abroad.\\u003C/p\\u003E\\n\\u003Cp\\u003EWhen the agreements are implemented, and verified by the International Atomic Energy Agency, all oil and financial sanctions on Iran will be lifted, according to a statement read this evening (April 2) from Lausanne, Switzerland, where the talks were held.\\u003C/p\\u003E\\n\\u003Cp\\u003EThe detail in the statement—listing limitations on specific enrichment facilities, for example—is surprising. And it suggests that, against Iran’s long insistence that it was not prepared to talk specifics at this time, it bent in the final few hours of an eight-day, marathon negotiating session. Previously, Iran\\u0026#8217;s negotiators had stuck to a strategy stated by supreme leader Ali Khamenei, which was to seek a single, all-encompassing agreement to be announced June 30. Such a shift in strategy would only be possible if Khamenei himself instructed his team to make it, a signal from Tehran that must have been passed early this morning.\\u003C/p\\u003E\\n\\u003Cp class=\\\"p1\\\"\\u003EBrent crude oil prices fell more than 4.9% to $54.28 a barrel, suggesting the market is taking the preliminary deal seriously.\\u003C/p\\u003E\\n\\u003Cp\\u003EThe question now will be whether the US Congress is prepared to trust that the preliminary accord merits holding off on new sanctions against Tehran.\\u003C/p\\u003E\\n\\u003Cp\\u003EThere is reason to believe that president Barack Obama will have a tough time persuading Congress to hold fire: Khamenei’s calculus has seemed to underestimate the resolve of a \\u003Ca href=\\\"http://thehill.com/policy/defense/237411-senate-dem-warns-sanctions-if-no-iran-deal\\\"\\u003Epossibly veto-proof\\u003C/a\\u003E congressional majority to impose harsher oil and financial sanctions in the absence of a breakthrough this week. Congress may inform Khamenei of this reality when it reconvenes in a couple of weeks, and perhaps makes more severe sanctions \\u003Ca href=\\\"http://www.cnn.com/2015/03/29/politics/boehner-iran-sanctions/\\\"\\u003Eone of its first orders of business\\u003C/a\\u003E.\\u003C/p\\u003E\\n\\u003Cp\\u003EThe issues right now are fairly clear-cut—the international side, called P5+1, wanted Iran to agree on paper to 15 years or so of restrictions on its capacity to create highly enriched uranium, and on its plans to both build and conduct research on more advanced nuclear technologies. Iran, meanwhile, has demanded fewer restrictions, covering a shorter period of time, and wants all oil and financial sanctions to be lifted immediately. As described, the tentative accord seems to cut the deal somewhere in the middle of the two.\\u003C/p\\u003E\\n\\u003Cp\\u003ESpeaking from the White House rose garden, Obama said the framework represented a \\u0026#8220;historic understanding with Iran\\u0026#8230; which if fully implemented will prevent it from obtaining a nuclear weapon.\\u0026#8221;\\u003C/p\\u003E\\n\\u003Cp\\u003E\\u003Cspan class='embed-youtube' style='text-align:center; display: block;'\\u003E\\u003Ciframe class='youtube-player' type='text/html' width='640' height='390' src='http://www.youtube.com/embed/PiJ8fe1T6_E?version=3\\u0026#038;rel=1\\u0026#038;fs=1\\u0026#038;showsearch=0\\u0026#038;showinfo=1\\u0026#038;iv_load_policy=1\\u0026#038;wmode=transparent' frameborder='0' allowfullscreen='true'\\u003E\\u003C/iframe\\u003E\\u003C/span\\u003E\\u003C/p\\u003E\\n\\u003Cp\\u003EThe rush by P5+1 to get something down on paper was entirely driven by American politics—a large, bipartisan well in the House and Senate, suspicious of Iran’s sincerity and trustworthiness, is keen to punish Tehran for not caving in more quickly. This urgency was criticized by France and others who said it played into Tehran’s hands, giving Iran another negotiating ace when it is in no hurry at all. Such critics may rightly look at American politics as a bizarre, small-time game of lots of hot air and a shortage of statesmanlike policy.\\u003C/p\\u003E\\n\\u003Cp\\u003EAs the negotiations enter their final phase, Iran may watch the stakes go up, mainly because of its own taste for brinksmanship. In the absence of a tangible, finalized deal, Congress is as likely as not to impose harsher sanctions, to be triggered right around July 1.\\u003C/p\\u003E\\u003Cimg alt=\\\"\\\" border=\\\"0\\\" src=\\\"http://pixel.wp.com/b.gif?host=qz.com\\u0026#038;blog=39587363\\u0026#038;post=375584\\u0026#038;subd=qzprod\\u0026#038;ref=\\u0026#038;feed=1\\\" width=\\\"1\\\" height=\\\"1\\\" /\\u003E\",\"comments\":\"http://qz.com/375584/iran-has-blinked-bringing-negotiators-to-a-preliminary-agreement-on-a-nuclear-deal/#comments\",\"pubDate\":\"2015-04-02T11:31:42-07:00\",\"category\":\"Uncategorized\",\"guid\":\"http://qz.com/?p=375584\",\"dc_creator\":\"Steve LeVine\",\"media_content_url\":\"https://qzprod.files.wordpress.com/2015/04/irantalks.jpg?w=640\",\"media_content_type\":\"html\",\"media_title\":\"irantalks\",\"media_thumbnail_url\":\"https://qzprod.files.wordpress.com/2015/04/irantalks.jpg?w=640\"}"], ["link", "http://qz.com/375584/iran-has-blinked-bringing-negotiators-to-a-preliminary-agreement-on-a-nuclear-deal/"], ["published_at", Thu, 02 Apr 2015 18:31:42 UTC +00:00], ["title", "Iran has blinked, bringing negotiators to a preliminary agreement on a nuclear deal"], ["updated_at", Thu, 02 Apr 2015 21:53:31 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35mEntry Load (2.5ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 4]]
+Completed 200 OK in 616ms (Views: 557.7ms | ActiveRecord: 57.0ms)
+
+
+Started GET "/api/feeds/5" for 127.0.0.1 at 2015-04-02 14:53:31 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"5"}
+  [1m[36mFeed Load (0.4ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "5"]]
+  [1m[35mSQL (0.7ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:53:31.427885' WHERE "feeds"."id" = 5
+  [1m[36m (0.6ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35mEntry Load (0.5ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 5]]
+Completed 200 OK in 233ms (Views: 229.6ms | ActiveRecord: 2.2ms)
+
+
+Started GET "/api/feeds/2" for 127.0.0.1 at 2015-04-02 14:53:31 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"2"}
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "2"]]
+  [1m[35mSQL (14.1ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:53:31.665745' WHERE "feeds"."id" = 2
+  [1m[36m (0.7ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35mEntry Load (1.3ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 2]]
+Completed 200 OK in 449ms (Views: 430.4ms | ActiveRecord: 16.7ms)
+
+
+Started GET "/api/feeds/1" for 127.0.0.1 at 2015-04-02 14:53:32 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"1"}
+  [1m[36mFeed Load (0.6ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "1"]]
+  [1m[35mSQL (1.3ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:53:32.119509' WHERE "feeds"."id" = 1
+  [1m[36m (6.7ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35m (0.2ms)[0m  BEGIN
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011610"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:53:30+00:00\",\"link\":\"http://example.com/test/1428011610\",\"description\":\"Fugiat duis ea est qui proident qui ut officia cillum voluptate anim labore quis laboris.\",\"pubDate\":\"2015-04-02T14:53:30-07:00\",\"guid\":\"http://example.com/test/1428011610\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011610"], ["published_at", Thu, 02 Apr 2015 21:53:30 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:53:30+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[35m (0.5ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011600"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:53:20+00:00\",\"link\":\"http://example.com/test/1428011600\",\"description\":\"Magna pariatur labore proident fugiat adipisicing ad adipisicing amet officia ut commodo dolore.\",\"pubDate\":\"2015-04-02T14:53:20-07:00\",\"guid\":\"http://example.com/test/1428011600\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011600"], ["published_at", Thu, 02 Apr 2015 21:53:20 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:53:20+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[36m (1.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011590"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:53:10+00:00\",\"link\":\"http://example.com/test/1428011590\",\"description\":\"Occaecat esse veniam eiusmod nostrud fugiat commodo reprehenderit adipisicing id occaecat incididunt consequat do proident.\",\"pubDate\":\"2015-04-02T14:53:10-07:00\",\"guid\":\"http://example.com/test/1428011590\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011590"], ["published_at", Thu, 02 Apr 2015 21:53:10 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:53:10+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011580"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:53:00+00:00\",\"link\":\"http://example.com/test/1428011580\",\"description\":\"Officia dolor id ullamco quis cillum eiusmod fugiat id qui dolor esse exercitation aliquip.\",\"pubDate\":\"2015-04-02T14:53:00-07:00\",\"guid\":\"http://example.com/test/1428011580\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011580"], ["published_at", Thu, 02 Apr 2015 21:53:00 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:53:00+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011570"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:52:50+00:00\",\"link\":\"http://example.com/test/1428011570\",\"description\":\"Voluptate labore nostrud ipsum voluptate occaecat mollit.\",\"pubDate\":\"2015-04-02T14:52:50-07:00\",\"guid\":\"http://example.com/test/1428011570\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011570"], ["published_at", Thu, 02 Apr 2015 21:52:50 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:52:50+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011560"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:52:40+00:00\",\"link\":\"http://example.com/test/1428011560\",\"description\":\"Est reprehenderit cillum cillum dolore quis Lorem mollit non magna consequat non.\",\"pubDate\":\"2015-04-02T14:52:40-07:00\",\"guid\":\"http://example.com/test/1428011560\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011560"], ["published_at", Thu, 02 Apr 2015 21:52:40 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:52:40+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.5ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011550"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:52:30+00:00\",\"link\":\"http://example.com/test/1428011550\",\"description\":\"In culpa mollit in non.\",\"pubDate\":\"2015-04-02T14:52:30-07:00\",\"guid\":\"http://example.com/test/1428011550\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011550"], ["published_at", Thu, 02 Apr 2015 21:52:30 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:52:30+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[35m (0.6ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011540"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:52:20+00:00\",\"link\":\"http://example.com/test/1428011540\",\"description\":\"Consectetur excepteur exercitation ut sunt incididunt elit excepteur proident nostrud reprehenderit occaecat mollit nostrud aliquip.\",\"pubDate\":\"2015-04-02T14:52:20-07:00\",\"guid\":\"http://example.com/test/1428011540\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011540"], ["published_at", Thu, 02 Apr 2015 21:52:20 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:52:20+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.6ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011530"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:52:10+00:00\",\"link\":\"http://example.com/test/1428011530\",\"description\":\"Pariatur et mollit ea esse magna Lorem anim commodo quis aute ea consectetur.\",\"pubDate\":\"2015-04-02T14:52:10-07:00\",\"guid\":\"http://example.com/test/1428011530\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011530"], ["published_at", Thu, 02 Apr 2015 21:52:10 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:52:10+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[35m (0.3ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011520"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:52:00+00:00\",\"link\":\"http://example.com/test/1428011520\",\"description\":\"Exercitation ipsum laborum Lorem sint magna.\",\"pubDate\":\"2015-04-02T14:52:00-07:00\",\"guid\":\"http://example.com/test/1428011520\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011520"], ["published_at", Thu, 02 Apr 2015 21:52:00 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:52:00+00:00"], ["updated_at", Thu, 02 Apr 2015 21:53:32 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35mEntry Load (1.1ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 1]]
+Completed 200 OK in 376ms (Views: 354.2ms | ActiveRecord: 20.7ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 7ms (Views: 6.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:53:55 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (1.2ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 7ms (Views: 5.2ms | ActiveRecord: 1.2ms)
+
+
+Started GET "/" for 127.0.0.1 at 2015-04-02 14:54:12 -0700
+Processing by StaticPagesController#index as HTML
+  Rendered static_pages/index.html.erb within layouts/application (0.1ms)
+Completed 200 OK in 8ms (Views: 8.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2015-04-02 14:54:12 -0700
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/backbone.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/news_reader.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/underscore.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/models/feed.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/feed_index.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/models/entry.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/collections/entries.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/collections/feeds.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/views/feedIndex.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/assets/routers/router.js?body=1" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:54:13 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[35mFeed Load (1.6ms)[0m  SELECT "feeds".* FROM "feeds"
+Completed 200 OK in 6ms (Views: 3.8ms | ActiveRecord: 1.6ms)
+
+
+Started GET "/api/feeds" for 127.0.0.1 at 2015-04-02 14:54:15 -0700
+Processing by Api::FeedsController#index as JSON
+  [1m[36mFeed Load (0.5ms)[0m  [1mSELECT "feeds".* FROM "feeds"[0m
+Completed 200 OK in 3ms (Views: 1.8ms | ActiveRecord: 0.5ms)
+
+
+Started GET "/api/feeds/3" for 127.0.0.1 at 2015-04-02 14:54:27 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"3"}
+  [1m[35mFeed Load (1.3ms)[0m  SELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1  [["id", "3"]]
+  [1m[36mSQL (8.3ms)[0m  [1mUPDATE "feeds" SET "updated_at" = '2015-04-02 21:54:27.663896' WHERE "feeds"."id" = 3[0m
+  [1m[35m (1.1ms)[0m  SELECT "entries"."guid" FROM "entries"
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.8ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:54:27 UTC +00:00], ["feed_id", 3], ["guid", "http://www.npr.org/blogs/thesalt/2015/04/02/397097008/mourning-the-matzo-iconic-n-y-factory-to-leave-former-jewish-hub?utm_medium=RSS&amp;utm_campaign=news"], ["json", "{\"title\":\"Mourning The Matzo: Iconic N.Y. Factory To Leave Former Jewish Hub\",\"link\":\"http://www.npr.org/blogs/thesalt/2015/04/02/397097008/mourning-the-matzo-iconic-n-y-factory-to-leave-former-jewish-hub?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"description\":\"It's the end of an era: After nearly a century, the Streit's matzo factory is leaving Manhattan's Lower East Side. This Passover will be its last there. Streit's plans to move to a new factory.\",\"content_encoded\":\"\\u003Cp\\u003EIt's the end of an era: After nearly a century, the Streit's matzo factory is leaving Manhattan's Lower East Side. This Passover will be its last there. Streit's plans to move to a new factory.\\u003C/p\\u003E\\u003Cp\\u003E\\u003Ca href=\\\"http://www.npr.org/templates/email/emailAFriend.php?storyId=397097008\\\"\\u003E\\u0026raquo; E-Mail This\\u003C/a\\u003E\\u003C/p\\u003E\",\"pubDate\":\"2015-04-02T14:47:21-07:00\",\"guid\":\"http://www.npr.org/blogs/thesalt/2015/04/02/397097008/mourning-the-matzo-iconic-n-y-factory-to-leave-former-jewish-hub?utm_medium=RSS\\u0026amp;utm_campaign=news\",\"dc_creator\":\"Joel Rose\"}"], ["link", "http://www.npr.org/blogs/thesalt/2015/04/02/397097008/mourning-the-matzo-iconic-n-y-factory-to-leave-former-jewish-hub?utm_medium=RSS&amp;utm_campaign=news"], ["published_at", Thu, 02 Apr 2015 21:47:21 UTC +00:00], ["title", "Mourning The Matzo: Iconic N.Y. Factory To Leave Former Jewish Hub"], ["updated_at", Thu, 02 Apr 2015 21:54:27 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35mEntry Load (0.8ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 3]]
+Completed 200 OK in 292ms (Views: 277.9ms | ActiveRecord: 12.8ms)
+
+
+Started GET "/api/feeds/5" for 127.0.0.1 at 2015-04-02 14:54:27 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"5"}
+  [1m[36mFeed Load (0.3ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "5"]]
+  [1m[35mSQL (0.7ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:54:27.959086' WHERE "feeds"."id" = 5
+  [1m[36m (0.6ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35mEntry Load (0.4ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 5]]
+Completed 200 OK in 201ms (Views: 197.4ms | ActiveRecord: 2.0ms)
+
+
+Started GET "/api/feeds/4" for 127.0.0.1 at 2015-04-02 14:54:28 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"4"}
+  [1m[36mFeed Load (0.3ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "4"]]
+  [1m[35mSQL (0.8ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:54:28.163982' WHERE "feeds"."id" = 4
+  [1m[36m (0.9ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35mEntry Load (2.0ms)[0m  SELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1  [["feed_id", 4]]
+Completed 200 OK in 521ms (Views: 516.3ms | ActiveRecord: 4.0ms)
+
+
+Started GET "/api/feeds/1" for 127.0.0.1 at 2015-04-02 14:54:28 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"1"}
+  [1m[36mFeed Load (0.4ms)[0m  [1mSELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1[0m  [["id", "1"]]
+  [1m[35mSQL (0.8ms)[0m  UPDATE "feeds" SET "updated_at" = '2015-04-02 21:54:28.691007' WHERE "feeds"."id" = 1
+  [1m[36m (0.6ms)[0m  [1mSELECT "entries"."guid" FROM "entries"[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011660"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:54:20+00:00\",\"link\":\"http://example.com/test/1428011660\",\"description\":\"Deserunt nisi fugiat ut ad.\",\"pubDate\":\"2015-04-02T14:54:20-07:00\",\"guid\":\"http://example.com/test/1428011660\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011660"], ["published_at", Thu, 02 Apr 2015 21:54:20 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:54:20+00:00"], ["updated_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.4ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011650"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:54:10+00:00\",\"link\":\"http://example.com/test/1428011650\",\"description\":\"Occaecat deserunt officia laborum ut qui excepteur esse nisi consectetur quis amet enim.\",\"pubDate\":\"2015-04-02T14:54:10-07:00\",\"guid\":\"http://example.com/test/1428011650\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011650"], ["published_at", Thu, 02 Apr 2015 21:54:10 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:54:10+00:00"], ["updated_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011640"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:54:00+00:00\",\"link\":\"http://example.com/test/1428011640\",\"description\":\"Velit est cillum consequat voluptate et incididunt velit excepteur ea enim est minim Lorem.\",\"pubDate\":\"2015-04-02T14:54:00-07:00\",\"guid\":\"http://example.com/test/1428011640\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011640"], ["published_at", Thu, 02 Apr 2015 21:54:00 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:54:00+00:00"], ["updated_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36m (0.1ms)[0m  [1mBEGIN[0m
+  [1m[35mSQL (0.5ms)[0m  INSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"  [["created_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011630"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:53:50+00:00\",\"link\":\"http://example.com/test/1428011630\",\"description\":\"Incididunt dolor ea ex ullamco exercitation anim sit ipsum commodo qui nostrud.\",\"pubDate\":\"2015-04-02T14:53:50-07:00\",\"guid\":\"http://example.com/test/1428011630\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011630"], ["published_at", Thu, 02 Apr 2015 21:53:50 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:53:50+00:00"], ["updated_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00]]
+  [1m[36m (0.4ms)[0m  [1mCOMMIT[0m
+  [1m[35m (0.1ms)[0m  BEGIN
+  [1m[36mSQL (0.4ms)[0m  [1mINSERT INTO "entries" ("created_at", "feed_id", "guid", "json", "link", "published_at", "title", "updated_at") VALUES ($1, $2, $3, $4, $5, $6, $7, $8) RETURNING "id"[0m  [["created_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00], ["feed_id", 1], ["guid", "http://example.com/test/1428011620"], ["json", "{\"title\":\"Lorem ipsum 2015-04-02T21:53:40+00:00\",\"link\":\"http://example.com/test/1428011620\",\"description\":\"Voluptate sint commodo aliquip quis pariatur amet non ad ea occaecat.\",\"pubDate\":\"2015-04-02T14:53:40-07:00\",\"guid\":\"http://example.com/test/1428011620\",\"dc_creator\":\"John Smith\"}"], ["link", "http://example.com/test/1428011620"], ["published_at", Thu, 02 Apr 2015 21:53:40 UTC +00:00], ["title", "Lorem ipsum 2015-04-02T21:53:40+00:00"], ["updated_at", Thu, 02 Apr 2015 21:54:28 UTC +00:00]]
+  [1m[35m (0.4ms)[0m  COMMIT
+  [1m[36mEntry Load (1.1ms)[0m  [1mSELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1[0m  [["feed_id", 1]]
+Completed 200 OK in 315ms (Views: 306.7ms | ActiveRecord: 7.4ms)
+
+
+Started GET "/api/feeds/2" for 127.0.0.1 at 2015-04-02 14:54:29 -0700
+Processing by Api::FeedsController#show as JSON
+  Parameters: {"id"=>"2"}
+  [1m[35mFeed Load (0.3ms)[0m  SELECT "feeds".* FROM "feeds" WHERE "feeds"."id" = $1 LIMIT 1  [["id", "2"]]
+  [1m[36mSQL (1.0ms)[0m  [1mUPDATE "feeds" SET "updated_at" = '2015-04-02 21:54:29.011569' WHERE "feeds"."id" = 2[0m
+  [1m[35m (0.8ms)[0m  SELECT "entries"."guid" FROM "entries"
+  [1m[36mEntry Load (1.1ms)[0m  [1mSELECT "entries".* FROM "entries" WHERE "entries"."feed_id" = $1[0m  [["feed_id", 2]]
+Completed 200 OK in 391ms (Views: 386.7ms | ActiveRecord: 3.2ms)
