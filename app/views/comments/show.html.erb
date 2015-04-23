@@ -1,0 +1,5 @@
+<h1>Post Title:<%= link_to @comment.post.title, post_url(@comment.post) %></h1>
+
+<h2>Comment: <%= @comment.content %></h2>
+
+<%= render 'form', child_comment: true %>

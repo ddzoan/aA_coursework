@@ -1,0 +1,40 @@
+<form action="<%= url %>" method="post">
+  <%= auth_input %>
+  <% unless new_post %>
+    <input type="hidden" name="_method" value="patch">
+  <% end %>
+
+  <label>
+    title
+    <input type="text" name="post[title]" value="<%= @post.title %>">
+  </label>
+  <br>
+  <label>
+    url
+    <input type="text" name="post[url]" value="<%= @post.url %>">
+  </label>
+  <br>
+  <label>
+    Content
+    <textarea name="post[content]"><%= @post.content %></textarea>
+  </label>
+  <br>
+  <label>
+    Sub:
+    <br>
+      <% @subs.each do |sub| %>
+        <label>
+          <input
+            type="checkbox"
+            name="post[sub_ids][]"
+            value="<%= sub.id %>"
+            <%= "checked" if @post.subs.include?(sub) %>>
+          <%= sub.title %>
+        </label>
+        <br>
+      <% end %>
+    </select>
+  </label>
+  <br>
+  <input type="submit" value="<%= button_value %>">
+</form>

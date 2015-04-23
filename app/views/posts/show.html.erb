@@ -1,0 +1,16 @@
+<h1><%= @post.title %></h1>
+URL: <%= link_to @post.url %>
+<br>
+Author: <%= @post.author.username %>
+<br>
+Content: <%= @post.content %>
+<br>
+<h4>Comments</h4>
+<%= link_to 'New Comment', new_post_comment_url(@post) %>
+<ul>
+  <% @all_comments[nil].each do |c1| %>
+    <li>
+      <%= render 'comments/comment', comment: c1 %>
+    </li>
+  <% end %>
+</ul>

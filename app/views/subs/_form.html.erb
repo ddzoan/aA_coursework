@@ -1,0 +1,20 @@
+<form action="<%= url %>" method="post">
+<%= auth_input %>
+<% unless new_sub %>
+  <input type="hidden" name="_method" value="patch">
+<% end %>
+
+<label>
+  title:
+  <input type="text" name="sub[title]" value="<%= @sub.title %>">
+</label>
+<br>
+
+<label>
+  description:
+  <input type="text" name="sub[description]" value="<%= @sub.description %>">
+</label>
+<br>
+
+<input type="submit" value="<%= button_value %>">
+</form>

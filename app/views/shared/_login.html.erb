@@ -1,0 +1,12 @@
+<form action="<%= url %>" method="post">
+  <%= auth_input %>
+  <label>username:
+    <input type="text" name="user[username]" value="<%= @user.username %>">
+  </label>
+  <br>
+  <label>password:
+    <input type="password" name="user[password]">
+  </label>
+  <br>
+  <input type="submit" value="<%= button_value %>">
+</form>
