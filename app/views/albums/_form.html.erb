@@ -1,0 +1,17 @@
+<form action="<%= new_album ? albums_url : album_url(@album) %>" method='POST'>
+  <% unless new_album %>
+    <input type="hidden" name="_method" value="PATCH">
+  <% end %>
+  <input type="hidden" name="authenticity_token" value="<%= form_authenticity_token %>">
+  <input type="hidden" name="album[band_id]" value="<%= @band.id %>">
+  <label>Album Name:
+    <input type="text" name="album[name]" value="<%= @album.name %>">
+  </label>
+  <br>
+  <label>Recording Type:<br>
+    <label>Studio<input type="radio" name="album[recording_type]" value='studio' checked></label>
+    <label>Live<input type="radio" name="album[recording_type]" value='live' <%= "checked" if @album.recording_type == 'live' %>></label>
+  </label>
+  <br>
+  <input type="submit" value="<%= button_value %>">
+</form>

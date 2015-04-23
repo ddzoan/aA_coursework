@@ -1,0 +1,9 @@
+<h1>All Bands</h1>
+<div>
+  <%= link_to 'Create New Band', new_band_url, role: 'button', class: 'btn btn-primary' %>
+</div>
+<div>
+  <ul>
+    <%= render @bands %>
+  </ul>
+</div>
