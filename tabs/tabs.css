@@ -1,0 +1,10 @@
+.tab-pane {
+  display: none;
+  transition: 0.25s;
+}
+
+.tab-pane.active { display: block; }
+
+a.active{ font-weight: bold; }
+
+.transitioning { opacity: 0; }
