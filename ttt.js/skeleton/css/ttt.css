@@ -1,0 +1,51 @@
+.wrapper {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#board {
+  width: 300px;
+  height: 300px;
+  margin: 0 auto;
+  border: 3px solid black;
+}
+
+#board:after {
+  content: "";
+  clear: both;
+  display: block;
+}
+
+.square {
+  float: left;
+  background-color: gray;
+  height: 100px;
+  width: 100px;
+  border: 3px solid black;
+  box-sizing: border-box;
+}
+
+.square:not(.marked):hover{
+  background-color: yellow;
+}
+
+.marked {
+  background-color: white;
+  vertical-align: middle;
+  line-height: 94px;
+  font-size: 42px;
+  font-weight: 700;
+}
+
+.square[data-mark='x'] {
+  color: blue;
+}
+
+.square[data-mark='o'] {
+  color: purple;
+}
+
+.winner {
+  background-color: red;
+}
