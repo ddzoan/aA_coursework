@@ -1,0 +1,48 @@
+/* PHASE 4: Footer */
+.footer {
+  width: 900px;
+  margin: 0 auto;
+  background-color: white;
+  border-left: 1px solid #ccc;
+  border-right: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  border-bottom-right-radius: 5px;
+  border-bottom-left-radius: 5px;
+  overflow: hidden;
+  color: #aaa;
+}
+
+.copy {
+  font-size: 14px;
+  font-weight: 400;
+  padding: 20px;
+  display: block;
+}
+
+.footer-links {
+  display: block;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.footer-link {
+  float: left;
+  font-size: 14px;
+  padding: 0 0 0 20px;
+}
+
+.footer-link a {
+  color: #aaa;
+}
+
+.footer-link a:hover {
+  color: black;
+}
+
+.copyright {
+  float: left;
+}
+
+.right-footer {
+  float: right;
+}
